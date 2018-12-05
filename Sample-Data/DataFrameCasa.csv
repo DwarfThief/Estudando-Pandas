@@ -1,0 +1,2096 @@
+Tipo;Bairro;Quartos;Vagas;Suites;Area;Valor;Condominio;IPTU;Valor m2;Tipo Agregado
+Casa;Jardim Botânico;2;0;1;100;7000.0;0.0;0.0;70.0;Casa
+Casa;Campo Grande;4;1;2;400;12000.0;0.0;0.0;30.0;Casa
+Casa;Méier;2;0;0;51;1500.0;50.0;0.0;29.41;Casa
+Casa;Maracanã;8;3;5;259;7000.0;0.0;0.0;27.03;Casa
+Casa;Benfica;1;0;0;33;1200.0;0.0;0.0;36.36;Casa
+Casa;Jardim Carioca;3;2;1;135;3000.0;0.0;0.0;22.22;Casa
+Casa;Lins de Vasconcelos;2;0;0;40;950.0;0.0;50.0;23.75;Casa
+Casa;Tijuca;4;1;1;191;4000.0;300.0;0.0;20.94;Casa
+Casa;Grajaú;5;4;2;450;7000.0;0.0;500.0;15.56;Casa
+Casa;Tanque;2;1;0;59;1200.0;170.0;0.0;20.34;Casa
+Casa;Campo Grande;3;0;0;200;2100.0;0.0;0.0;10.5;Casa
+Casa;Bonsucesso;2;0;0;51;1000.0;0.0;0.0;19.61;Casa
+Casa;Engenho Novo;2;0;0;70;1100.0;0.0;0.0;15.71;Casa
+Casa;Jardim Botânico;2;4;1;107;9500.0;0.0;1091.0;88.79;Casa
+Casa;Recreio dos Bandeirantes;4;4;2;367;12000.0;0.0;653.0;32.7;Casa
+Casa;Botafogo;12;5;0;500;18000.0;0.0;1800.0;36.0;Casa
+Casa;Catete;10;0;10;300;15000.0;0.0;220.0;50.0;Casa
+Casa;Campo Grande;2;1;2;100;1500.0;0.0;30.0;15.0;Casa
+Casa;Vargem Grande;2;1;0;70;1900.0;580.0;25.0;27.14;Casa
+Casa;Santa Teresa;5;3;0;260;7000.0;0.0;163.0;26.92;Casa
+Casa;Vila da Penha;1;0;0;40;850.0;0.0;0.0;21.25;Casa
+Casa;Vaz Lobo;1;0;0;35;400.0;0.0;0.0;11.43;Casa
+Casa;Itanhangá;3;2;1;321;9000.0;1400.0;0.0;28.04;Casa
+Casa;Taquara;3;1;0;100;2100.0;250.0;0.0;21.0;Casa
+Casa;Campo Grande;2;1;0;100;1300.0;0.0;0.0;13.0;Casa
+Casa;Campo Grande;2;0;0;70;1000.0;0.0;0.0;14.29;Casa
+Casa;Barra da Tijuca;4;6;2;232;6500.0;1100.0;800.0;28.02;Casa
+Casa;Ramos;2;0;0;40;950.0;0.0;0.0;23.75;Casa
+Casa;Anil;3;6;1;280;2800.0;0.0;190.0;10.0;Casa
+Casa;Campo Grande;5;2;5;120;10000.0;0.0;0.0;83.33;Casa
+Casa;Vargem Grande;7;10;2;500;12000.0;0.0;20.0;24.0;Casa
+Casa;Barra da Tijuca;4;6;2;800;9800.0;0.0;490.0;12.25;Casa
+Casa;Recreio dos Bandeirantes;3;0;0;614;4500.0;0.0;576.0;7.33;Casa
+Casa;Tijuca;4;6;0;160;3500.0;0.0;0.0;21.88;Casa
+Casa;Piedade;2;0;0;95;1100.0;0.0;0.0;11.58;Casa
+Casa;Barra da Tijuca;5;4;5;890;17000.0;2500.0;2500.0;19.1;Casa
+Casa;Freguesia (Jacarepaguá);4;4;1;300;4500.0;0.0;0.0;15.0;Casa
+Casa;Barra da Tijuca;6;1;0;425;13000.0;0.0;580.0;30.59;Casa
+Casa;Campo Grande;3;1;0;120;2800.0;0.0;0.0;23.33;Casa
+Casa;Lagoa;6;1;0;750;18000.0;0.0;1200.0;24.0;Casa
+Casa;Urca;6;5;5;1000;13000.0;0.0;0.0;13.0;Casa
+Casa;Campo Grande;2;1;0;80;1200.0;0.0;0.0;15.0;Casa
+Casa;Barra da Tijuca;5;4;2;600;8000.0;0.0;0.0;13.33;Casa
+Casa;Braz de Pina;3;1;0;69;1600.0;0.0;0.0;23.19;Casa
+Casa;Jardim Carioca;3;2;1;317;5000.0;0.0;2221.0;15.77;Casa
+Casa;Vila Valqueire;2;1;0;60;1050.0;0.0;5.0;17.5;Casa
+Casa;Urca;5;4;3;350;16000.0;0.0;500.0;45.71;Casa
+Casa;Santíssimo;2;0;0;60;800.0;0.0;0.0;13.33;Casa
+Casa;Praça Seca;3;0;1;159;1400.0;0.0;100.0;8.81;Casa
+Casa;Moneró;2;0;0;100;2500.0;0.0;0.0;25.0;Casa
+Casa;Tijuca;2;0;0;50;2100.0;100.0;0.0;42.0;Casa
+Casa;Campo Grande;2;1;0;60;1500.0;0.0;0.0;25.0;Casa
+Casa;Oswaldo Cruz;1;0;0;40;900.0;0.0;0.0;22.5;Casa
+Casa;Gávea;4;4;2;450;14000.0;0.0;7200.0;31.11;Casa
+Casa;Campo Grande;2;1;0;70;1000.0;0.0;0.0;14.29;Casa
+Casa;Vila Isabel;2;0;0;96;2000.0;0.0;40.0;20.83;Casa
+Casa;Realengo;2;0;0;80;950.0;0.0;0.0;11.88;Casa
+Casa;Campo Grande;3;0;2;120;1000.0;0.0;0.0;8.33;Casa
+Casa;Penha Circular;3;1;0;102;2100.0;0.0;1200.0;20.59;Casa
+Casa;Gávea;4;2;3;250;16000.0;0.0;400.0;64.0;Casa
+Casa;Realengo;1;0;0;40;800.0;0.0;0.0;20.0;Casa
+Casa;Freguesia (Jacarepaguá);3;2;0;213;2700.0;510.0;190.0;12.68;Casa
+Casa;Campo Grande;4;5;1;596;4000.0;0.0;7627.0;6.71;Casa
+Casa;Taquara;4;2;1;550;8000.0;0.0;0.0;14.55;Casa
+Casa;Recreio dos Bandeirantes;2;1;2;212;6500.0;1363.0;287.0;30.66;Casa
+Casa;Colégio;1;0;0;65;800.0;0.0;0.0;12.31;Casa
+Casa;Campo Grande;2;0;0;70;1100.0;0.0;0.0;15.71;Casa
+Casa;Recreio dos Bandeirantes;4;5;3;222;5800.0;638.0;354.0;26.13;Casa
+Casa;Campo Grande;3;1;0;100;1500.0;0.0;0.0;15.0;Casa
+Casa;Recreio dos Bandeirantes;4;2;4;900;14000.0;1170.0;0.0;15.56;Casa
+Casa;Pilares;2;0;0;65;800.0;0.0;0.0;12.31;Casa
+Casa;Bangu;2;2;0;120;1580.0;0.0;0.0;13.17;Casa
+Casa;Vila Isabel;2;0;0;52;1500.0;0.0;0.0;28.85;Casa
+Casa;Todos os Santos;2;1;0;90;1800.0;0.0;0.0;20.0;Casa
+Casa;Campo Grande;2;1;0;80;2000.0;0.0;0.0;25.0;Casa
+Casa;Santa Cruz;2;3;0;142;1600.0;0.0;0.0;11.27;Casa
+Casa;Vargem Pequena;3;0;1;100;2800.0;380.0;0.0;28.0;Casa
+Casa;Laranjeiras;2;0;0;46;1850.0;179.0;29.0;40.22;Casa
+Casa;Campo Grande;4;1;4;100;1600.0;0.0;0.0;16.0;Casa
+Casa;Vila Isabel;3;0;0;100;3000.0;0.0;219.0;30.0;Casa
+Casa;Campo Grande;2;0;0;65;1500.0;0.0;0.0;23.08;Casa
+Casa;Humaitá;3;2;1;234;10000.0;0.0;305.0;42.74;Casa
+Casa;Campo Grande;2;0;0;70;1500.0;0.0;0.0;21.43;Casa
+Casa;Engenho de Dentro;4;3;0;120;1500.0;0.0;0.0;12.5;Casa
+Casa;Freguesia (Jacarepaguá);5;0;5;1000;20000.0;0.0;0.0;20.0;Casa
+Casa;Curicica;3;3;1;130;3800.0;0.0;0.0;29.23;Casa
+Casa;Barra da Tijuca;6;3;4;273;22000.0;2300.0;25000.0;80.59;Casa
+Casa;Joá;3;0;3;350;6500.0;1900.0;10000.0;18.57;Casa
+Casa;Bangu;2;1;0;80;1100.0;0.0;12.0;13.75;Casa
+Casa;Vargem Grande;4;2;2;270;4000.0;350.0;0.0;14.81;Casa
+Casa;Alto da Boa Vista;9;8;4;870;15000.0;770.0;480.0;17.24;Casa
+Casa;Urca;4;0;4;491;19900.0;0.0;6000.0;40.53;Casa
+Casa;Freguesia (Jacarepaguá);4;3;3;190;2900.0;805.0;157.0;15.26;Casa
+Casa;Bento Ribeiro;2;1;0;50;1300.0;0.0;1.0;26.0;Casa
+Casa;Jardim América;3;0;0;180;900.0;0.0;0.0;5.0;Casa
+Casa;Ramos;3;0;0;11;1200.0;0.0;0.0;109.09;Casa
+Casa;Anil;3;0;1;210;2750.0;0.0;0.0;13.1;Casa
+Casa;Campo Grande;2;1;0;70;1350.0;0.0;0.0;19.29;Casa
+Casa;Barra da Tijuca;4;4;4;450;9000.0;1123.0;0.0;20.0;Casa
+Casa;Barra da Tijuca;5;3;4;800;7500.0;2100.0;0.0;9.38;Casa
+Casa;Praça Seca;2;1;0;81;1100.0;0.0;15.0;13.58;Casa
+Casa;Barra da Tijuca;4;2;1;213;6760.0;1010.0;1096.0;31.74;Casa
+Casa;Grajaú;6;5;2;279;3500.0;0.0;390.0;12.54;Casa
+Casa;Barra da Tijuca;5;5;4;925;22000.0;3129.0;47.0;23.78;Casa
+Casa;Freguesia (Jacarepaguá);6;10;1;475;10000.0;0.0;0.0;21.05;Casa
+Casa;Realengo;1;1;0;40;600.0;0.0;0.0;15.0;Casa
+Casa;Ramos;2;0;0;65;1300.0;0.0;0.0;20.0;Casa
+Casa;Vila da Penha;2;1;0;70;1300.0;0.0;18.0;18.57;Casa
+Casa;Campo Grande;2;1;0;75;1000.0;0.0;0.0;13.33;Casa
+Casa;Campo Grande;1;0;0;40;450.0;0.0;0.0;11.25;Casa
+Casa;Penha Circular;3;0;1;200;1100.0;159.0;0.0;5.5;Casa
+Casa;Vaz Lobo;1;1;0;80;800.0;0.0;75.0;10.0;Casa
+Casa;Jardim América;1;0;0;41;800.0;0.0;0.0;19.51;Casa
+Casa;Vila da Penha;5;0;2;270;3000.0;0.0;0.0;11.11;Casa
+Casa;Campo Grande;3;1;1;100;1800.0;0.0;0.0;18.0;Casa
+Casa;Barra da Tijuca;6;4;4;480;20000.0;1100.0;0.0;41.67;Casa
+Casa;Laranjeiras;4;0;2;85;8900.0;0.0;0.0;104.71;Casa
+Casa;Campo Grande;3;2;2;134;1700.0;0.0;0.0;12.69;Casa
+Casa;Vargem Grande;2;1;1;78;1500.0;0.0;0.0;19.23;Casa
+Casa;Vila da Penha;3;0;3;180;4500.0;0.0;0.0;25.0;Casa
+Casa;Piedade;1;0;0;39;600.0;0.0;16.0;15.38;Casa
+Casa;Campo Grande;2;1;0;90;1500.0;0.0;0.0;16.67;Casa
+Casa;Vila Isabel;3;0;0;100;3000.0;0.0;2190.0;30.0;Casa
+Casa;Barra da Tijuca;4;3;1;350;7500.0;970.0;635.0;21.43;Casa
+Casa;Campo Grande;2;0;0;70;900.0;0.0;30.0;12.86;Casa
+Casa;Itanhangá;5;0;5;240;5000.0;0.0;0.0;20.83;Casa
+Casa;Praça Seca;3;4;1;316;1950.0;0.0;187.0;6.17;Casa
+Casa;Senador Vasconcelos;3;3;1;360;2495.0;0.0;0.0;6.93;Casa
+Casa;Barra da Tijuca;5;2;3;580;4500.0;840.0;0.0;7.76;Casa
+Casa;Méier;3;0;0;98;2200.0;0.0;18.0;22.45;Casa
+Casa;Campo Grande;5;4;1;300;10000.0;0.0;0.0;33.33;Casa
+Casa;Barra da Tijuca;5;3;0;250;12000.0;0.0;550.0;48.0;Casa
+Casa;Recreio dos Bandeirantes;7;6;4;587;8000.0;0.0;0.0;13.63;Casa
+Casa;Campo Grande;2;2;0;60;1000.0;0.0;0.0;16.67;Casa
+Casa;Anil;1;0;0;35;1000.0;0.0;0.0;28.57;Casa
+Casa;Tijuca;6;4;2;550;18500.0;0.0;0.0;33.64;Casa
+Casa;Recreio dos Bandeirantes;4;2;2;353;9000.0;0.0;0.0;25.5;Casa
+Casa;Maria da Graça;1;0;0;40;800.0;0.0;0.0;20.0;Casa
+Casa;Maracanã;3;2;0;188;4000.0;0.0;344.0;21.28;Casa
+Casa;Pedra de Guaratiba;2;1;1;80;1200.0;0.0;0.0;15.0;Casa
+Casa;Santa Teresa;14;0;14;350;9500.0;0.0;600.0;27.14;Casa
+Casa;Jacarepaguá;4;3;2;230;4500.0;0.0;180.0;19.57;Casa
+Casa;Campo Grande;4;1;0;140;1700.0;0.0;0.0;12.14;Casa
+Casa;Taquara;2;1;1;79;900.0;0.0;0.0;11.39;Casa
+Casa;Humaitá;3;3;3;493;20000.0;3700.0;1515.0;40.57;Casa
+Casa;Botafogo;7;0;4;275;16000.0;0.0;622.0;58.18;Casa
+Casa;Recreio dos Bandeirantes;3;4;2;600;6000.0;0.0;1200.0;10.0;Casa
+Casa;Riachuelo;2;0;1;150;1800.0;0.0;15.0;12.0;Casa
+Casa;Pedra de Guaratiba;2;1;0;60;900.0;0.0;0.0;15.0;Casa
+Casa;Paquetá;10;0;10;976;20000.0;0.0;0.0;20.49;Casa
+Casa;Campo Grande;3;0;0;110;1600.0;0.0;0.0;14.55;Casa
+Casa;Campo Grande;2;0;0;75;1300.0;0.0;0.0;17.33;Casa
+Casa;Vargem Pequena;2;3;2;300;7500.0;0.0;0.0;25.0;Casa
+Casa;Bangu;2;0;0;180;1450.0;0.0;0.0;8.06;Casa
+Casa;Recreio dos Bandeirantes;4;0;0;686;9000.0;0.0;0.0;13.12;Casa
+Casa;Campo Grande;4;4;4;100;2000.0;0.0;2.0;20.0;Casa
+Casa;Botafogo;4;4;3;335;12500.0;0.0;3857.0;37.31;Casa
+Casa;Campo Grande;2;1;0;50;1100.0;0.0;0.0;22.0;Casa
+Casa;Gávea;4;4;3;506;18000.0;1300.0;14000.0;35.57;Casa
+Casa;Pechincha;2;0;0;55;1000.0;0.0;0.0;18.18;Casa
+Casa;Barra da Tijuca;4;4;4;500;15000.0;974.0;0.0;30.0;Casa
+Casa;Campo Grande;1;0;0;40;600.0;0.0;0.0;15.0;Casa
+Casa;Campo Grande;2;3;0;70;1500.0;0.0;0.0;21.43;Casa
+Casa;Catete;4;0;0;289;4200.0;190.0;384.0;14.53;Casa
+Casa;Oswaldo Cruz;1;0;0;36;800.0;0.0;0.0;22.22;Casa
+Casa;Jardim Botânico;4;2;2;380;15000.0;0.0;6700.0;39.47;Casa
+Casa;Santíssimo;2;0;0;60;700.0;0.0;0.0;11.67;Casa
+Casa;Senador Vasconcelos;1;1;0;50;650.0;0.0;0.0;13.0;Casa
+Casa;Taquara;2;1;0;60;900.0;0.0;0.0;15.0;Casa
+Casa;Recreio dos Bandeirantes;7;0;3;600;12000.0;0.0;6000.0;20.0;Casa
+Casa;Lagoa;6;2;3;700;19000.0;0.0;0.0;27.14;Casa
+Casa;Barra da Tijuca;3;4;1;222;4700.0;735.0;247.0;21.17;Casa
+Casa;Taquara;4;1;0;120;2000.0;633.0;0.0;16.67;Casa
+Casa;Todos os Santos;2;0;0;55;1100.0;100.0;0.0;20.0;Casa
+Casa;Ramos;2;1;0;50;1000.0;0.0;120.0;20.0;Casa
+Casa;Higienópolis;3;5;0;250;2400.0;0.0;650.0;9.6;Casa
+Casa;Guaratiba;2;1;0;60;900.0;0.0;0.0;15.0;Casa
+Casa;Pedra de Guaratiba;4;0;0;90;3500.0;0.0;0.0;38.89;Casa
+Casa;Vila da Penha;2;0;0;68;1000.0;0.0;0.0;14.71;Casa
+Casa;Guaratiba;3;1;0;65;1000.0;0.0;0.0;15.38;Casa
+Casa;Irajá;2;1;0;60;600.0;0.0;0.0;10.0;Casa
+Casa;Pedra de Guaratiba;2;0;0;80;800.0;100.0;0.0;10.0;Casa
+Casa;Campo Grande;2;0;1;60;800.0;0.0;0.0;13.33;Casa
+Casa;Campo Grande;3;1;0;80;1000.0;0.0;0.0;12.5;Casa
+Casa;Glória;4;2;2;400;11000.0;0.0;0.0;27.5;Casa
+Casa;Urca;5;1;3;320;17000.0;0.0;396.0;53.12;Casa
+Casa;Campo Grande;2;1;0;100;1200.0;0.0;0.0;12.0;Casa
+Casa;Santa Teresa;3;2;1;200;4000.0;0.0;20.0;20.0;Casa
+Casa;Campo Grande;2;0;0;60;700.0;0.0;0.0;11.67;Casa
+Casa;Vargem Grande;5;3;2;759;8000.0;700.0;400.0;10.54;Casa
+Casa;Gávea;4;3;2;400;7000.0;1.0;0.0;17.5;Casa
+Casa;Campo Grande;2;1;0;90;1300.0;0.0;0.0;14.44;Casa
+Casa;Vaz Lobo;2;1;0;98;990.0;0.0;0.0;10.1;Casa
+Casa;Laranjeiras;3;2;1;300;7000.0;290.0;0.0;23.33;Casa
+Casa;Pedra de Guaratiba;2;1;0;60;800.0;0.0;0.0;13.33;Casa
+Casa;Laranjeiras;2;0;0;46;1850.0;179.0;29.0;40.22;Casa
+Casa;Méier;2;0;0;57;900.0;0.0;0.0;15.79;Casa
+Casa;Centro;5;3;0;233;3000.0;0.0;659.0;12.88;Casa
+Casa;Jacarepaguá;3;2;1;239;3750.0;0.0;0.0;15.69;Casa
+Casa;Campo Grande;2;1;0;80;900.0;0.0;0.0;11.25;Casa
+Casa;Recreio dos Bandeirantes;4;3;1;316;4600.0;830.0;0.0;14.56;Casa
+Casa;Jardim Botânico;4;4;3;450;20000.0;0.0;1750.0;44.44;Casa
+Casa;Pechincha;2;0;1;60;1550.0;100.0;0.0;25.83;Casa
+Casa;Taquara;3;1;1;106;2300.0;180.0;57.0;21.7;Casa
+Casa;Olaria;1;0;0;35;800.0;0.0;0.0;22.86;Casa
+Casa;Gávea;0;0;0;160;15000.0;0.0;426.0;93.75;Casa
+Casa;Penha;1;0;0;27;800.0;0.0;0.0;29.63;Casa
+Casa;Campo Grande;2;0;0;100;1500.0;0.0;0.0;15.0;Casa
+Casa;Vaz Lobo;1;0;0;30;400.0;0.0;0.0;13.33;Casa
+Casa;Vicente de Carvalho;1;0;0;32;500.0;0.0;0.0;15.62;Casa
+Casa;Barra da Tijuca;5;3;5;615;18000.0;2300.0;0.0;29.27;Casa
+Casa;Campo Grande;2;1;0;80;1215.0;0.0;0.0;15.19;Casa
+Casa;Engenho Novo;2;0;0;60;550.0;0.0;0.0;9.17;Casa
+Casa;Vicente de Carvalho;1;0;1;50;1000.0;0.0;0.0;20.0;Casa
+Casa;Vaz Lobo;2;1;0;90;1500.0;0.0;0.0;16.67;Casa
+Casa;Campo Grande;2;1;0;80;1290.0;0.0;0.0;16.12;Casa
+Casa;Inhoaíba;1;0;0;50;600.0;0.0;0.0;12.0;Casa
+Casa;Barra da Tijuca;5;5;0;341;8200.0;0.0;794.0;24.05;Casa
+Casa;Glória;5;0;3;265;8400.0;0.0;0.0;31.7;Casa
+Casa;Campo Grande;2;1;0;127;2500.0;0.0;0.0;19.69;Casa
+Casa;Campo Grande;3;7;1;212;1500.0;0.0;846.0;7.08;Casa
+Casa;Campo Grande;2;1;1;65;800.0;0.0;0.0;12.31;Casa
+Casa;Maracanã;2;0;0;85;1800.0;0.0;82.0;21.18;Casa
+Casa;Catete;5;3;1;300;15000.0;0.0;0.0;50.0;Casa
+Casa;Campo Grande;3;3;0;140;1800.0;0.0;0.0;12.86;Casa
+Casa;Jardim Sulacap;2;1;1;60;1250.0;0.0;0.0;20.83;Casa
+Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;1749.0;44.25;Casa
+Casa;Parque Anchieta;3;4;0;200;1500.0;0.0;0.0;7.5;Casa
+Casa;Santa Teresa;1;0;0;22;500.0;98.0;6.0;22.73;Casa
+Casa;Laranjeiras;3;1;1;300;7000.0;180.0;573.0;23.33;Casa
+Casa;Recreio dos Bandeirantes;3;2;3;151;4000.0;650.0;0.0;26.49;Casa
+Casa;Vila Valqueire;2;1;0;60;1600.0;0.0;0.0;26.67;Casa
+Casa;Campo Grande;2;1;0;110;1050.0;0.0;0.0;9.55;Casa
+Casa;Campo Grande;2;1;0;239;10000.0;0.0;0.0;41.84;Casa
+Casa;Jardim Botânico;4;3;4;406;20000.0;0.0;1912.0;49.26;Casa
+Casa;Vila da Penha;4;4;1;200;4000.0;0.0;0.0;20.0;Casa
+Casa;Marechal Hermes;2;1;0;70;1300.0;0.0;0.0;18.57;Casa
+Casa;Campo Grande;1;0;0;50;450.0;0.0;2.0;9.0;Casa
+Casa;Barra da Tijuca;1;0;0;130;5000.0;0.0;0.0;38.46;Casa
+Casa;Campo Grande;2;1;1;110;1500.0;0.0;0.0;13.64;Casa
+Casa;Barra da Tijuca;4;3;1;111;5100.0;735.0;0.0;45.95;Casa
+Casa;Recreio dos Bandeirantes;6;0;4;600;10000.0;0.0;1080.0;16.67;Casa
+Casa;Guaratiba;2;1;0;60;1000.0;0.0;0.0;16.67;Casa
+Casa;Campo Grande;1;0;0;70;700.0;0.0;0.0;10.0;Casa
+Casa;Campo Grande;2;0;0;74;800.0;0.0;0.0;10.81;Casa
+Casa;Barra da Tijuca;5;4;3;1008;10000.0;1390.0;148.0;9.92;Casa
+Casa;Campo Grande;4;1;0;80;7000.0;0.0;0.0;87.5;Casa
+Casa;Itanhangá;4;2;3;250;3800.0;490.0;0.0;15.2;Casa
+Casa;Rocha Miranda;1;2;0;47;850.0;0.0;0.0;18.09;Casa
+Casa;Campo Grande;2;2;0;65;1000.0;440.0;0.0;15.38;Casa
+Casa;Barra da Tijuca;5;3;3;400;8450.0;790.0;600.0;21.12;Casa
+Casa;Jardim América;1;0;0;45;500.0;0.0;0.0;11.11;Casa
+Casa;Pitangueiras;4;5;2;165;4700.0;0.0;0.0;28.48;Casa
+Casa;Madureira;3;10;1;120;2300.0;0.0;0.0;19.17;Casa
+Casa;Lins de Vasconcelos;2;1;0;80;850.0;520.0;12.0;10.62;Casa
+Casa;Pedra de Guaratiba;2;1;0;60;800.0;0.0;0.0;13.33;Casa
+Casa;Maria da Graça;1;0;0;40;900.0;0.0;0.0;22.5;Casa
+Casa;São Conrado;4;4;2;490;20000.0;670.0;0.0;40.82;Casa
+Casa;Anil;5;6;3;810;7000.0;525.0;0.0;8.64;Casa
+Casa;Campo Grande;2;1;1;70;1350.0;0.0;0.0;19.29;Casa
+Casa;Campo Grande;3;1;1;100;1500.0;0.0;0.0;15.0;Casa
+Casa;Jardim Carioca;2;1;0;107;1700.0;0.0;0.0;15.89;Casa
+Casa;Camorim;2;2;1;90;2000.0;0.0;0.0;22.22;Casa
+Casa;Pavuna;1;0;0;40;550.0;0.0;0.0;13.75;Casa
+Casa;Riachuelo;4;0;1;100;1800.0;0.0;40.0;18.0;Casa
+Casa;Méier;4;1;1;125;1900.0;0.0;0.0;15.2;Casa
+Casa;Rocha;3;2;1;111;1800.0;0.0;180.0;16.22;Casa
+Casa;Madureira;2;0;0;75;1500.0;0.0;0.0;20.0;Casa
+Casa;Abolição;1;0;0;50;1100.0;0.0;18.0;22.0;Casa
+Casa;Senador Camará;2;1;0;60;600.0;0.0;0.0;10.0;Casa
+Casa;Recreio dos Bandeirantes;4;4;4;571;10000.0;850.0;0.0;17.51;Casa
+Casa;Tijuca;4;5;0;274;19000.0;0.0;0.0;69.34;Casa
+Casa;Copacabana;3;1;2;150;8000.0;0.0;99.0;53.33;Casa
+Casa;Bonsucesso;2;1;0;70;3000.0;0.0;150.0;42.86;Casa
+Casa;Parque Anchieta;2;0;0;100;1000.0;0.0;0.0;10.0;Casa
+Casa;Jardim Botânico;4;1;4;356;20000.0;0.0;1189.0;56.18;Casa
+Casa;Botafogo;4;2;0;221;13000.0;0.0;0.0;58.82;Casa
+Casa;Vila Kosmos;2;0;2;63;2300.0;0.0;0.0;36.51;Casa
+Casa;Pavuna;2;0;0;40;500.0;0.0;0.0;12.5;Casa
+Casa;Braz de Pina;2;0;0;27;900.0;0.0;0.0;33.33;Casa
+Casa;Barra da Tijuca;4;0;2;400;5500.0;2619.0;0.0;13.75;Casa
+Casa;Vargem Pequena;4;1;4;220;5200.0;400.0;0.0;23.64;Casa
+Casa;Vila Valqueire;2;1;0;93;1200.0;0.0;0.0;12.9;Casa
+Casa;Quintino Bocaiúva;2;0;0;55;1000.0;71.0;0.0;18.18;Casa
+Casa;Todos os Santos;2;0;0;66;1300.0;100.0;0.0;19.7;Casa
+Casa;Quintino Bocaiúva;2;1;0;80;1500.0;0.0;0.0;18.75;Casa
+Casa;Barra da Tijuca;5;2;5;320;16000.0;1000.0;800.0;50.0;Casa
+Casa;Senador Vasconcelos;1;0;0;40;700.0;0.0;0.0;17.5;Casa
+Casa;Campo Grande;2;1;1;70;850.0;0.0;0.0;12.14;Casa
+Casa;Campo Grande;3;1;0;80;1300.0;0.0;0.0;16.25;Casa
+Casa;Jardim Botânico;4;3;3;500;18500.0;0.0;993.0;37.0;Casa
+Casa;Piedade;1;0;0;30;650.0;0.0;0.0;21.67;Casa
+Casa;Freguesia (Jacarepaguá);4;3;0;260;5000.0;0.0;380.0;19.23;Casa
+Casa;Recreio dos Bandeirantes;4;2;4;290;5500.0;955.0;0.0;18.97;Casa
+Casa;Humaitá;4;2;2;430;8000.0;0.0;0.0;18.6;Casa
+Casa;Campo Grande;2;1;0;80;1200.0;0.0;0.0;15.0;Casa
+Casa;Campo Grande;2;4;0;80;1200.0;0.0;0.0;15.0;Casa
+Casa;Guadalupe;2;0;0;100;950.0;0.0;0.0;9.5;Casa
+Casa;Lagoa;4;2;3;409;10000.0;0.0;1025.0;24.45;Casa
+Casa;Santa Teresa;3;3;0;360;12000.0;0.0;104.0;33.33;Casa
+Casa;Campo Grande;2;0;0;60;700.0;0.0;0.0;11.67;Casa
+Casa;Anil;5;2;3;520;4900.0;724.0;519.0;9.42;Casa
+Casa;Barra da Tijuca;5;4;3;622;10000.0;1134.0;0.0;16.08;Casa
+Casa;Encantado;2;0;0;74;1300.0;0.0;0.0;17.57;Casa
+Casa;Inhoaíba;2;0;0;70;850.0;0.0;0.0;12.14;Casa
+Casa;Campo Grande;2;0;0;70;1100.0;0.0;0.0;15.71;Casa
+Casa;Méier;2;1;0;38;1450.0;160.0;0.0;38.16;Casa
+Casa;Guaratiba;2;1;0;60;900.0;0.0;0.0;15.0;Casa
+Casa;Taquara;2;1;0;59;1300.0;250.0;0.0;22.03;Casa
+Casa;Guaratiba;2;1;0;60;800.0;0.0;0.0;13.33;Casa
+Casa;Joá;4;3;3;520;15000.0;2800.0;800.0;28.85;Casa
+Casa;Campo Grande;1;0;0;65;600.0;0.0;0.0;9.23;Casa
+Casa;Irajá;2;0;0;35;750.0;0.0;0.0;21.43;Casa
+Casa;Campo Grande;2;0;0;58;900.0;0.0;0.0;15.52;Casa
+Casa;Campo Grande;1;0;0;50;550.0;0.0;0.0;11.0;Casa
+Casa;Irajá;1;1;0;45;800.0;0.0;0.0;17.78;Casa
+Casa;Parque Anchieta;2;3;0;98;1400.0;0.0;0.0;14.29;Casa
+Casa;Campo Grande;1;0;0;55;650.0;0.0;0.0;11.82;Casa
+Casa;Realengo;3;4;1;400;2000.0;0.0;223.0;5.0;Casa
+Casa;Freguesia (Jacarepaguá);3;2;2;80;2000.0;0.0;821.0;25.0;Casa
+Casa;Barra da Tijuca;5;0;5;580;17000.0;1800.0;0.0;29.31;Casa
+Casa;Campo Grande;2;1;0;110;1300.0;0.0;0.0;11.82;Casa
+Casa;Campo Grande;2;1;1;100;1000.0;0.0;0.0;10.0;Casa
+Casa;Campo Grande;1;0;0;55;500.0;0.0;0.0;9.09;Casa
+Casa;Vila da Penha;2;0;0;42;900.0;0.0;0.0;21.43;Casa
+Casa;Campo Grande;2;1;0;70;800.0;0.0;0.0;11.43;Casa
+Casa;Riachuelo;3;1;0;85;1350.0;0.0;18.0;15.88;Casa
+Casa;Campo Grande;1;0;0;100;1500.0;0.0;0.0;15.0;Casa
+Casa;Barra da Tijuca;6;5;5;765;7000.0;1699.0;0.0;9.15;Casa
+Casa;Barra da Tijuca;5;2;4;622;10000.0;1129.0;0.0;16.08;Casa
+Casa;Campo Grande;3;1;1;100;1500.0;0.0;0.0;15.0;Casa
+Casa;Lins de Vasconcelos;2;1;0;93;1500.0;0.0;17.0;16.13;Casa
+Casa;Recreio dos Bandeirantes;2;3;1;130;3200.0;0.0;300.0;24.62;Casa
+Casa;Recreio dos Bandeirantes;3;3;1;300;15000.0;1608.0;312.0;50.0;Casa
+Casa;Barra da Tijuca;6;4;4;300;13000.0;800.0;1500.0;43.33;Casa
+Casa;Vila Isabel;3;0;0;75;2100.0;0.0;67.0;28.0;Casa
+Casa;Pedra de Guaratiba;2;3;0;100;1200.0;0.0;0.0;12.0;Casa
+Casa;Méier;2;1;0;120;2000.0;0.0;70.0;16.67;Casa
+Casa;Vila Valqueire;5;20;0;460;16000.0;0.0;0.0;34.78;Casa
+Casa;Vila Isabel;2;0;0;45;1400.0;80.0;0.0;31.11;Casa
+Casa;Campo Grande;2;3;0;80;1300.0;0.0;0.0;16.25;Casa
+Casa;Jardim Botânico;3;0;0;115;4500.0;0.0;229.0;39.13;Casa
+Casa;Senador Vasconcelos;1;0;0;50;500.0;0.0;0.0;10.0;Casa
+Casa;Centro;2;0;1;180;4200.0;0.0;0.0;23.33;Casa
+Casa;Inhaúma;1;0;0;40;550.0;0.0;0.0;13.75;Casa
+Casa;Campo Grande;1;1;0;50;800.0;0.0;0.0;16.0;Casa
+Casa;Anil;2;3;1;230;3500.0;0.0;180.0;15.22;Casa
+Casa;Camorim;3;5;1;210;5000.0;0.0;70.0;23.81;Casa
+Casa;Guaratiba;3;1;3;60;1100.0;0.0;0.0;18.33;Casa
+Casa;Laranjeiras;4;2;1;336;13500.0;750.0;649.0;40.18;Casa
+Casa;Campo Grande;3;1;0;120;2000.0;0.0;0.0;16.67;Casa
+Casa;Recreio dos Bandeirantes;5;3;2;310;8000.0;980.0;350.0;25.81;Casa
+Casa;Pavuna;2;0;0;35;850.0;0.0;0.0;24.29;Casa
+Casa;Barra da Tijuca;6;0;0;324;7000.0;0.0;300.0;21.6;Casa
+Casa;Vargem Pequena;4;2;2;200;3400.0;400.0;240.0;17.0;Casa
+Casa;Vaz Lobo;2;0;0;45;800.0;0.0;0.0;17.78;Casa
+Casa;Vicente de Carvalho;4;3;2;304;2500.0;0.0;0.0;8.22;Casa
+Casa;Tijuca;3;0;0;45;2500.0;0.0;0.0;55.56;Casa
+Casa;Itanhangá;5;4;5;1200;15000.0;1600.0;0.0;12.5;Casa
+Casa;Maracanã;5;1;0;161;6000.0;0.0;0.0;37.27;Casa
+Casa;Ilha do Governador;3;2;2;117;1900.0;90.0;0.0;16.24;Casa
+Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;0.0;44.25;Casa
+Casa;Gávea;3;2;3;200;12000.0;0.0;400.0;60.0;Casa
+Casa;Ramos;3;1;0;160;1700.0;0.0;45.0;10.62;Casa
+Casa;Pechincha;3;4;1;379;5500.0;0.0;0.0;14.51;Casa
+Casa;Quintino Bocaiúva;1;0;1;45;750.0;1.0;0.0;16.67;Casa
+Casa;Vila da Penha;2;1;1;65;1400.0;0.0;0.0;21.54;Casa
+Casa;Pedra de Guaratiba;2;1;0;60;1000.0;0.0;0.0;16.67;Casa
+Casa;Catete;3;1;0;111;3200.0;340.0;98.0;28.83;Casa
+Casa;Taquara;4;4;4;300;5000.0;755.0;0.0;16.67;Casa
+Casa;Vila da Penha;3;2;1;100;2000.0;0.0;0.0;20.0;Casa
+Casa;Parada de Lucas;2;0;0;80;1600.0;0.0;0.0;20.0;Casa
+Casa;Barra da Tijuca;5;6;4;788;18000.0;2214.0;2181.0;22.84;Casa
+Casa;Vila Isabel;4;4;4;337;4500.0;0.0;337.0;13.35;Casa
+Casa;Oswaldo Cruz;1;0;0;35;650.0;0.0;0.0;18.57;Casa
+Casa;Campo Grande;2;2;0;80;1200.0;0.0;0.0;15.0;Casa
+Casa;Inhoaíba;2;1;0;85;1000.0;0.0;0.0;11.76;Casa
+Casa;Lins de Vasconcelos;2;1;0;80;850.0;496.0;12.0;10.62;Casa
+Casa;Barra da Tijuca;4;2;4;250;8000.0;1800.0;360.0;32.0;Casa
+Casa;Botafogo;8;3;0;418;15000.0;0.0;0.0;35.89;Casa
+Casa;Campo Grande;2;0;1;80;1100.0;0.0;0.0;13.75;Casa
+Casa;Campo Grande;2;0;1;60;900.0;0.0;0.0;15.0;Casa
+Casa;Recreio dos Bandeirantes;3;4;3;360;12000.0;0.0;6072.0;33.33;Casa
+Casa;Recreio dos Bandeirantes;4;5;3;360;15000.0;0.0;5624.0;41.67;Casa
+Casa;Jardim Botânico;4;3;0;531;18000.0;0.0;702.0;33.9;Casa
+Casa;Glória;4;3;2;851;22000.0;0.0;980.0;25.85;Casa
+Casa;Vargem Pequena;3;1;3;138;2350.0;350.0;130.0;17.03;Casa
+Casa;Campo Grande;1;0;0;50;500.0;0.0;0.0;10.0;Casa
+Casa;Bonsucesso;6;2;1;180;4500.0;0.0;0.0;25.0;Casa
+Casa;Campo Grande;2;1;2;90;1200.0;0.0;0.0;13.33;Casa
+Casa;Campo Grande;2;0;1;54;1000.0;0.0;0.0;18.52;Casa
+Casa;Jacarepaguá;8;20;7;2000;15000.0;0.0;0.0;7.5;Casa
+Casa;Freguesia (Jacarepaguá);3;2;0;140;2200.0;0.0;128.0;15.71;Casa
+Casa;Jardim Botânico;4;3;4;451;20000.0;0.0;1750.0;44.35;Casa
+Casa;Gávea;4;4;0;450;13000.0;0.0;600.0;28.89;Casa
+Casa;Engenho de Dentro;2;0;0;33;900.0;0.0;16.0;27.27;Casa
+Casa;Realengo;2;1;0;70;1200.0;50.0;0.0;17.14;Casa
+Casa;Glória;6;2;0;400;10000.0;0.0;370.0;25.0;Casa
+Casa;Barra da Tijuca;3;2;3;338;3500.0;954.0;0.0;10.36;Casa
+Casa;Campo Grande;1;0;0;50;700.0;0.0;0.0;14.0;Casa
+Casa;Campo Grande;2;1;2;100;1400.0;0.0;0.0;14.0;Casa
+Casa;Cachambi;2;1;1;77;1300.0;0.0;0.0;16.88;Casa
+Casa;Gávea;3;1;3;450;18000.0;0.0;1000.0;40.0;Casa
+Casa;Méier;3;0;0;230;1800.0;0.0;0.0;7.83;Casa
+Casa;Campo Grande;3;1;0;90;950.0;0.0;0.0;10.56;Casa
+Casa;Méier;4;5;3;357;5900.0;0.0;3759.0;16.53;Casa
+Casa;Bangu;2;2;0;110;1650.0;0.0;0.0;15.0;Casa
+Casa;Campo Grande;3;0;1;80;1200.0;0.0;0.0;15.0;Casa
+Casa;Barra da Tijuca;3;0;3;400;4000.0;776.0;0.0;10.0;Casa
+Casa;Pechincha;3;3;3;250;3900.0;350.0;70.0;15.6;Casa
+Casa;Bangu;2;1;0;75;850.0;0.0;0.0;11.33;Casa
+Casa;Freguesia (Jacarepaguá);3;2;1;399;10000.0;0.0;0.0;25.06;Casa
+Casa;Barra da Tijuca;4;4;4;428;8500.0;1085.0;1311.0;19.86;Casa
+Casa;Leblon;4;4;4;669;15000.0;3400.0;2930.0;22.42;Casa
+Casa;Tijuca;4;3;3;164;3900.0;0.0;175.0;23.78;Casa
+Casa;Campo Grande;1;1;0;80;750.0;0.0;2.0;9.38;Casa
+Casa;Jardim Botânico;5;2;5;500;20000.0;0.0;1912.0;40.0;Casa
+Casa;Barra da Tijuca;5;3;3;500;15000.0;1200.0;0.0;30.0;Casa
+Casa;Irajá;1;0;0;40;750.0;0.0;0.0;18.75;Casa
+Casa;Lagoa;5;2;1;400;20000.0;180.0;576.0;50.0;Casa
+Casa;Riachuelo;2;2;0;92;1300.0;0.0;53.0;14.13;Casa
+Casa;Botafogo;3;0;0;88;5800.0;0.0;0.0;65.91;Casa
+Casa;Padre Miguel;2;0;0;110;1400.0;0.0;0.0;12.73;Casa
+Casa;Campo Grande;3;3;0;125;2500.0;0.0;0.0;20.0;Casa
+Casa;Vista Alegre;1;0;0;50;900.0;0.0;0.0;18.0;Casa
+Casa;Campo Grande;1;0;0;50;650.0;0.0;55.0;13.0;Casa
+Casa;Cascadura;2;0;0;50;1000.0;0.0;0.0;20.0;Casa
+Casa;Centro;6;0;0;360;12000.0;0.0;120.0;33.33;Casa
+Casa;Campo Grande;3;1;2;200;12000.0;0.0;0.0;60.0;Casa
+Casa;Vargem Pequena;3;2;1;180;1700.0;808.0;12.0;9.44;Casa
+Casa;Gávea;5;4;2;690;10000.0;900.0;1100.0;14.49;Casa
+Casa;Santo Cristo;5;0;0;85;1200.0;0.0;0.0;14.12;Casa
+Casa;Jacarepaguá;3;2;1;243;3900.0;100.0;0.0;16.05;Casa
+Casa;Tijuca;7;2;0;340;10000.0;0.0;1944.0;29.41;Casa
+Casa;Campo Grande;1;0;0;55;500.0;0.0;0.0;9.09;Casa
+Casa;Campo Grande;2;1;0;75;800.0;0.0;25.0;10.67;Casa
+Casa;Cosme Velho;4;4;1;800;15000.0;1300.0;1100.0;18.75;Casa
+Casa;Gávea;4;3;3;560;18000.0;1300.0;0.0;32.14;Casa
+Casa;Pilares;2;0;1;100;1100.0;0.0;0.0;11.0;Casa
+Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;1749.0;44.25;Casa
+Casa;Jacarepaguá;5;1;1;540;4500.0;0.0;0.0;8.33;Casa
+Casa;Vila Valqueire;3;1;0;100;1500.0;0.0;0.0;15.0;Casa
+Casa;Campo Grande;2;3;0;120;1200.0;0.0;30.0;10.0;Casa
+Casa;Jardim Botânico;6;2;1;385;15000.0;1000.0;990.0;38.96;Casa
+Casa;Ramos;2;0;0;48;800.0;0.0;0.0;16.67;Casa
+Casa;Vila da Penha;3;0;1;300;2700.0;0.0;0.0;9.0;Casa
+Casa;Bangu;1;0;0;40;600.0;0.0;0.0;15.0;Casa
+Casa;Quintino Bocaiúva;2;0;0;60;1200.0;0.0;0.0;20.0;Casa
+Casa;Campo Grande;2;1;2;100;1500.0;0.0;30.0;15.0;Casa
+Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;1749.0;44.25;Casa
+Casa;Curicica;2;0;1;70;1500.0;0.0;89.0;21.43;Casa
+Casa;Grajaú;3;0;1;73;2000.0;0.0;100.0;27.4;Casa
+Casa;Barra da Tijuca;3;2;2;220;4900.0;675.0;0.0;22.27;Casa
+Casa;Piedade;1;0;0;40;750.0;0.0;16.0;18.75;Casa
+Casa;Tanque;3;1;0;230;2500.0;0.0;967.0;10.87;Casa
+Casa;Vargem Pequena;2;0;2;80;1800.0;0.0;0.0;22.5;Casa
+Casa;Jardim Sulacap;2;2;1;70;1500.0;0.0;0.0;21.43;Casa
+Casa;Urca;5;3;3;350;16000.0;0.0;500.0;45.71;Casa
+Casa;Jardim Botânico;4;1;2;500;15000.0;0.0;450.0;30.0;Casa
+Casa;Taquara;1;0;0;60;1000.0;0.0;0.0;16.67;Casa
+Casa;Campo Grande;1;0;0;50;400.0;0.0;0.0;8.0;Casa
+Casa;Vila da Penha;1;0;0;100;800.0;0.0;0.0;8.0;Casa
+Casa;Pilares;2;0;0;65;1100.0;0.0;0.0;16.92;Casa
+Casa;Campo Grande;1;0;0;60;450.0;0.0;20.0;7.5;Casa
+Casa;Oswaldo Cruz;1;0;0;50;700.0;0.0;0.0;14.0;Casa
+Casa;Curicica;2;0;0;100;1200.0;0.0;43.0;12.0;Casa
+Casa;Guaratiba;2;0;0;89;700.0;180.0;0.0;7.87;Casa
+Casa;Catete;10;0;10;200;15000.0;0.0;200.0;75.0;Casa
+Casa;Irajá;1;0;0;45;600.0;0.0;17.0;13.33;Casa
+Casa;Barra da Tijuca;5;4;2;421;12000.0;1668.0;1250.0;28.5;Casa
+Casa;Jacarepaguá;2;1;1;70;1400.0;0.0;130.0;20.0;Casa
+Casa;Recreio dos Bandeirantes;4;3;2;510;10000.0;1100.0;760.0;19.61;Casa
+Casa;Barra da Tijuca;6;4;3;430;7500.0;150.0;0.0;17.44;Casa
+Casa;Campo Grande;2;4;0;60;1600.0;0.0;0.0;26.67;Casa
+Casa;Recreio dos Bandeirantes;3;20;1;100;8000.0;0.0;0.0;80.0;Casa
+Casa;Recreio dos Bandeirantes;4;2;3;600;15000.0;0.0;6072.0;25.0;Casa
+Casa;Bangu;2;0;0;75;850.0;0.0;0.0;11.33;Casa
+Casa;Campo Grande;2;5;0;75;1050.0;0.0;0.0;14.0;Casa
+Casa;Pechincha;5;5;2;420;4500.0;0.0;0.0;10.71;Casa
+Casa;Campo Grande;2;0;0;70;560.0;240.0;0.0;8.0;Casa
+Casa;Recreio dos Bandeirantes;4;3;1;298;8000.0;0.0;3208.0;26.85;Casa
+Casa;Lins de Vasconcelos;2;1;0;80;850.0;520.0;12.0;10.62;Casa
+Casa;Rocha Miranda;1;0;0;55;800.0;0.0;0.0;14.55;Casa
+Casa;Irajá;2;0;0;70;1100.0;0.0;0.0;15.71;Casa
+Casa;Maracanã;3;0;0;105;1700.0;0.0;90.0;16.19;Casa
+Casa;Quintino Bocaiúva;2;1;0;55;1000.0;17.0;0.0;18.18;Casa
+Casa;Moneró;5;2;1;278;3500.0;0.0;3997.0;12.59;Casa
+Casa;Braz de Pina;3;2;0;90;2000.0;0.0;296.0;22.22;Casa
+Casa;Pavuna;2;1;0;46;600.0;250.0;0.0;13.04;Casa
+Casa;Freguesia (Jacarepaguá);3;4;1;318;4500.0;0.0;353.0;14.15;Casa
+Casa;Vila da Penha;1;0;0;45;800.0;0.0;0.0;17.78;Casa
+Casa;Santa Teresa;2;0;0;60;1400.0;0.0;56.0;23.33;Casa
+Casa;Recreio dos Bandeirantes;4;4;2;258;4800.0;350.0;0.0;18.6;Casa
+Casa;Vargem Pequena;4;1;1;141;2500.0;400.0;250.0;17.73;Casa
+Casa;Pechincha;4;4;1;275;4500.0;0.0;2104.0;16.36;Casa
+Casa;Jacarepaguá;2;2;0;80;2000.0;0.0;0.0;25.0;Casa
+Casa;Andaraí;2;1;0;80;2000.0;100.0;25.0;25.0;Casa
+Casa;Vargem Pequena;3;1;1;100;2200.0;650.0;0.0;22.0;Casa
+Casa;Engenho Novo;3;1;1;146;2200.0;0.0;103.0;15.07;Casa
+Casa;Laranjeiras;6;2;6;333;20000.0;0.0;697.0;60.06;Casa
+Casa;Praça Seca;1;1;0;30;800.0;40.0;0.0;26.67;Casa
+Casa;Rio Comprido;3;0;0;40;1500.0;150.0;0.0;37.5;Casa
+Casa;Campo Grande;2;1;0;80;1000.0;0.0;0.0;12.5;Casa
+Casa;Piedade;2;0;0;50;1200.0;0.0;0.0;24.0;Casa
+Casa;Curicica;3;1;2;15;7077.0;0.0;0.0;471.8;Casa
+Casa;Recreio dos Bandeirantes;4;3;3;226;3500.0;1400.0;0.0;15.49;Casa
+Casa;Vila Isabel;2;0;0;40;1300.0;0.0;0.0;32.5;Casa
+Casa;Botafogo;4;5;0;600;22000.0;0.0;3142.0;36.67;Casa
+Casa;Praça da Bandeira;3;0;0;50;1800.0;0.0;24.0;36.0;Casa
+Casa;Pechincha;3;1;3;77;2500.0;0.0;0.0;32.47;Casa
+Casa;Freguesia (Jacarepaguá);3;2;2;400;7800.0;0.0;300.0;19.5;Casa
+Casa;Maria da Graça;1;0;0;57;850.0;0.0;0.0;14.91;Casa
+Casa;Santa Teresa;2;0;0;160;2800.0;0.0;0.0;17.5;Casa
+Casa;Jardim América;1;0;0;15;400.0;0.0;0.0;26.67;Casa
+Casa;Recreio dos Bandeirantes;4;4;4;239;5000.0;1300.0;0.0;20.92;Casa
+Casa;Campo Grande;2;1;2;74;1200.0;0.0;0.0;16.22;Casa
+Casa;Bonsucesso;2;0;0;56;1100.0;0.0;0.0;19.64;Casa
+Casa;Curicica;1;0;0;50;800.0;0.0;80.0;16.0;Casa
+Casa;Realengo;2;0;0;60;800.0;0.0;0.0;13.33;Casa
+Casa;Rio Comprido;3;4;0;330;5000.0;0.0;0.0;15.15;Casa
+Casa;Braz de Pina;2;0;0;25;800.0;0.0;0.0;32.0;Casa
+Casa;Gávea;4;0;3;500;18000.0;1500.0;1100.0;36.0;Casa
+Casa;Tijuca;3;5;1;260;6500.0;0.0;1031.0;25.0;Casa
+Casa;Irajá;2;0;0;86;875.0;0.0;0.0;10.17;Casa
+Casa;Recreio dos Bandeirantes;3;4;1;400;8500.0;0.0;0.0;21.25;Casa
+Casa;Campo Grande;2;0;0;75;1400.0;0.0;0.0;18.67;Casa
+Casa;Vaz Lobo;2;0;0;55;600.0;0.0;0.0;10.91;Casa
+Casa;Campo Grande;2;1;0;80;1200.0;0.0;0.0;15.0;Casa
+Casa;Cordovil;2;1;0;60;850.0;0.0;0.0;14.17;Casa
+Casa;Campo Grande;4;1;1;150;8000.0;0.0;0.0;53.33;Casa
+Casa;Campo Grande;3;4;1;212;2500.0;0.0;600.0;11.79;Casa
+Casa;Santíssimo;1;1;0;55;900.0;0.0;0.0;16.36;Casa
+Casa;Recreio dos Bandeirantes;6;2;6;349;10000.0;0.0;494.0;28.65;Casa
+Casa;Campo Grande;2;1;0;160;2200.0;0.0;0.0;13.75;Casa
+Casa;Gávea;6;5;3;650;20000.0;0.0;19230.0;30.77;Casa
+Casa;Ipanema;4;0;1;150;6500.0;1527.0;360.0;43.33;Casa
+Casa;Santíssimo;2;0;0;75;700.0;50.0;0.0;9.33;Casa
+Casa;Recreio dos Bandeirantes;4;3;4;255;9800.0;640.0;380.0;38.43;Casa
+Casa;Anil;3;4;1;275;4000.0;0.0;200.0;14.55;Casa
+Casa;Recreio dos Bandeirantes;4;2;3;360;12000.0;0.0;0.0;33.33;Casa
+Casa;Urca;3;1;0;225;12000.0;0.0;385.0;53.33;Casa
+Casa;Bento Ribeiro;1;0;0;50;790.0;0.0;0.0;15.8;Casa
+Casa;Curicica;2;0;0;80;1300.0;0.0;0.0;16.25;Casa
+Casa;Praça Seca;4;1;1;128;1600.0;0.0;228.0;12.5;Casa
+Casa;Tijuca;2;1;0;96;1900.0;0.0;105.0;19.79;Casa
+Casa;Vargem Grande;3;2;1;100;2000.0;0.0;0.0;20.0;Casa
+Casa;Gávea;4;1;2;350;8500.0;0.0;554.0;24.29;Casa
+Casa;Paciência;2;0;0;55;600.0;0.0;0.0;10.91;Casa
+Casa;Ribeira;3;0;0;107;1600.0;0.0;0.0;14.95;Casa
+Casa;Cosmos;2;1;0;80;1000.0;0.0;0.0;12.5;Casa
+Casa;Barra da Tijuca;5;4;4;600;7000.0;0.0;1370.0;11.67;Casa
+Casa;Todos os Santos;3;1;0;87;1700.0;40.0;0.0;19.54;Casa
+Casa;Tijuca;4;1;0;230;5000.0;0.0;0.0;21.74;Casa
+Casa;Campo Grande;3;1;0;80;950.0;0.0;0.0;11.88;Casa
+Casa;Itanhangá;5;0;5;480;3000.0;400.0;0.0;6.25;Casa
+Casa;Vicente de Carvalho;2;1;0;60;1200.0;80.0;0.0;20.0;Casa
+Casa;Campo Grande;3;1;3;287;2500.0;0.0;0.0;8.71;Casa
+Casa;Olaria;2;0;0;52;1300.0;0.0;0.0;25.0;Casa
+Casa;Engenho Novo;2;2;1;180;2200.0;0.0;680.0;12.22;Casa
+Casa;Vargem Pequena;8;4;6;380;17000.0;0.0;0.0;44.74;Casa
+Casa;Campo Grande;1;0;0;50;550.0;0.0;0.0;11.0;Casa
+Casa;Taquara;3;1;1;120;2000.0;135.0;75.0;16.67;Casa
+Casa;Itanhangá;10;0;6;800;8500.0;0.0;0.0;10.62;Casa
+Casa;Humaitá;3;0;1;300;11500.0;0.0;0.0;38.33;Casa
+Casa;Bento Ribeiro;1;1;0;60;900.0;0.0;0.0;15.0;Casa
+Casa;Campo Grande;3;1;2;120;1400.0;0.0;0.0;11.67;Casa
+Casa;Recreio dos Bandeirantes;2;3;1;110;3200.0;0.0;300.0;29.09;Casa
+Casa;Campo Grande;3;2;1;277;2400.0;0.0;0.0;8.66;Casa
+Casa;Laranjeiras;5;1;2;300;7000.0;180.0;573.0;23.33;Casa
+Casa;Campo Grande;2;0;0;56;850.0;0.0;0.0;15.18;Casa
+Casa;Ipanema;3;0;0;120;5600.0;1500.0;399.0;46.67;Casa
+Casa;Quintino Bocaiúva;1;0;0;55;800.0;0.0;0.0;14.55;Casa
+Casa;Gávea;5;1;1;330;8000.0;0.0;611.0;24.24;Casa
+Casa;Campo Grande;3;0;1;90;2200.0;0.0;0.0;24.44;Casa
+Casa;Freguesia (Jacarepaguá);5;3;1;318;5000.0;0.0;335.0;15.72;Casa
+Casa;Freguesia (Jacarepaguá);4;1;2;416;13000.0;0.0;0.0;31.25;Casa
+Casa;Campo Grande;2;0;0;60;700.0;0.0;0.0;11.67;Casa
+Casa;Campinho;1;1;0;60;850.0;0.0;0.0;14.17;Casa
+Casa;Pedra de Guaratiba;4;1;0;100;1300.0;0.0;0.0;13.0;Casa
+Casa;Tijuca;6;8;2;215;6000.0;0.0;3500.0;27.91;Casa
+Casa;Campo Grande;3;4;1;250;2500.0;0.0;600.0;10.0;Casa
+Casa;Botafogo;7;1;3;250;12000.0;0.0;1881.0;48.0;Casa
+Casa;Vicente de Carvalho;2;1;0;55;1000.0;0.0;0.0;18.18;Casa
+Casa;Bangu;2;0;0;75;850.0;0.0;0.0;11.33;Casa
+Casa;Cosme Velho;3;3;1;437;6000.0;0.0;1052.0;13.73;Casa
+Casa;Gávea;4;4;0;450;14900.0;0.0;500.0;33.11;Casa
+Casa;Vila Valqueire;2;0;0;60;1000.0;0.0;0.0;16.67;Casa
+Casa;Quintino Bocaiúva;2;0;0;49;1000.0;71.0;0.0;20.41;Casa
+Casa;Taquara;2;0;0;60;1000.0;0.0;14.0;16.67;Casa
+Casa;Barra da Tijuca;5;2;5;600;14000.0;790.0;5400.0;23.33;Casa
+Casa;Campo Grande;2;4;1;120;2500.0;0.0;0.0;20.83;Casa
+Casa;Ilha do Governador;3;1;0;70;1950.0;0.0;0.0;27.86;Casa
+Casa;Vargem Pequena;3;3;3;200;3500.0;260.0;0.0;17.5;Casa
+Casa;Barra da Tijuca;4;4;4;550;18000.0;1550.0;1860.0;32.73;Casa
+Casa;Urca;0;1;0;150;6500.0;0.0;1815.0;43.33;Casa
+Casa;Joá;4;2;1;500;10000.0;1600.0;0.0;20.0;Casa
+Casa;Barra da Tijuca;4;2;2;332;8000.0;510.0;638.0;24.1;Casa
+Casa;Pavuna;2;1;0;70;800.0;0.0;0.0;11.43;Casa
+Casa;Laranjeiras;5;2;2;300;7000.0;290.0;500.0;23.33;Casa
+Casa;Bonsucesso;1;0;0;30;650.0;0.0;0.0;21.67;Casa
+Casa;Santa Teresa;1;0;0;35;1000.0;50.0;0.0;28.57;Casa
+Casa;Laranjeiras;3;1;1;300;7000.0;0.0;572.0;23.33;Casa
+Casa;Taquara;3;1;1;164;1800.0;160.0;0.0;10.98;Casa
+Casa;Gávea;4;2;1;680;14000.0;578.0;0.0;20.59;Casa
+Casa;Vila da Penha;2;0;0;85;1300.0;0.0;0.0;15.29;Casa
+Casa;Méier;2;0;0;55;1000.0;0.0;13.0;18.18;Casa
+Casa;Campo Grande;1;1;0;60;800.0;0.0;0.0;13.33;Casa
+Casa;Campo Grande;3;3;0;80;1500.0;0.0;0.0;18.75;Casa
+Casa;Barra da Tijuca;4;7;3;280;5900.0;330.0;0.0;21.07;Casa
+Casa;Braz de Pina;1;0;0;35;750.0;0.0;0.0;21.43;Casa
+Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;1749.0;44.25;Casa
+Casa;Jardim Botânico;4;4;4;450;20000.0;0.0;0.0;44.44;Casa
+Casa;Campo Grande;2;1;0;75;850.0;0.0;0.0;11.33;Casa
+Casa;Humaitá;4;2;0;252;13500.0;0.0;300.0;53.57;Casa
+Casa;Botafogo;7;1;3;250;12000.0;0.0;0.0;48.0;Casa
+Casa;Barra da Tijuca;4;4;4;402;10000.0;1500.0;1337.0;24.88;Casa
+Casa;Maria da Graça;3;0;0;50;1300.0;0.0;0.0;26.0;Casa
+Casa;Freguesia (Jacarepaguá);3;2;0;140;6600.0;0.0;400.0;47.14;Casa
+Casa;Campo Grande;2;0;0;60;900.0;0.0;0.0;15.0;Casa
+Casa;Barra da Tijuca;4;3;4;350;12000.0;1300.0;620.0;34.29;Casa
+Casa;Barra da Tijuca;4;3;1;200;6500.0;1100.0;0.0;32.5;Casa
+Casa;Quintino Bocaiúva;4;8;0;200;2500.0;0.0;0.0;12.5;Casa
+Casa;Campo Grande;3;2;3;230;2000.0;0.0;0.0;8.7;Casa
+Casa;Pavuna;3;2;0;90;900.0;0.0;0.0;10.0;Casa
+Casa;Paciência;1;0;0;40;650.0;0.0;0.0;16.25;Casa
+Casa;Vaz Lobo;3;1;0;80;950.0;0.0;36.0;11.88;Casa
+Casa;Pedra de Guaratiba;2;1;1;100;1200.0;0.0;0.0;12.0;Casa
+Casa;Vaz Lobo;3;2;0;100;950.0;0.0;0.0;9.5;Casa
+Casa;Barra da Tijuca;4;0;4;900;10000.0;1170.0;0.0;11.11;Casa
+Casa;Curicica;2;0;0;60;1000.0;0.0;98.0;16.67;Casa
+Casa;Campo Grande;3;2;1;240;1700.0;0.0;136.0;7.08;Casa
+Casa;Cascadura;3;0;0;60;1200.0;0.0;0.0;20.0;Casa
+Casa;Jardim Guanabara;4;10;2;447;6500.0;0.0;2937.0;14.54;Casa
+Casa;Campo Grande;1;0;0;30;430.0;0.0;0.0;14.33;Casa
+Casa;Recreio dos Bandeirantes;4;2;4;587;9000.0;850.0;1268.0;15.33;Casa
+Casa;Jardim Botânico;4;3;4;300;20000.0;0.0;1254.0;66.67;Casa
+Casa;Catete;3;1;0;111;3200.0;340.0;87.0;28.83;Casa
+Casa;Vila da Penha;3;1;1;80;1510.0;0.0;0.0;18.88;Casa
+Casa;Anchieta;2;1;0;80;700.0;0.0;0.0;8.75;Casa
+Casa;Recreio dos Bandeirantes;4;3;4;324;10000.0;675.0;621.0;30.86;Casa
+Casa;Santa Teresa;2;0;0;100;1650.0;0.0;35.0;16.5;Casa
+Casa;Vila Valqueire;2;2;0;80;1100.0;0.0;13.0;13.75;Casa
+Casa;Barra da Tijuca;6;3;3;600;5900.0;1000.0;1200.0;9.83;Casa
+Casa;Campo Grande;2;1;0;70;1200.0;0.0;0.0;17.14;Casa
+Casa;Recreio dos Bandeirantes;4;3;1;633;6000.0;0.0;2700.0;9.48;Casa
+Casa;Rio Comprido;2;0;0;250;5000.0;0.0;3800.0;20.0;Casa
+Casa;Vila Kosmos;2;1;0;113;1800.0;0.0;0.0;15.93;Casa
+Casa;Santa Teresa;3;1;1;133;2500.0;0.0;0.0;18.8;Casa
+Casa;Vila da Penha;4;1;1;270;3500.0;0.0;0.0;12.96;Casa
+Casa;Botafogo;2;1;0;80;3300.0;0.0;600.0;41.25;Casa
+Casa;Jardim Botânico;4;4;4;452;20000.0;0.0;0.0;44.25;Casa
+Casa;Itanhangá;4;2;2;535;8000.0;1340.0;967.0;14.95;Casa
+Casa;Tauá;2;0;0;160;2000.0;0.0;1200.0;12.5;Casa
+Casa;Santa Teresa;6;2;0;381;9000.0;0.0;186.0;23.62;Casa
+Casa;Cordovil;1;0;0;65;650.0;0.0;0.0;10.0;Casa
+Casa;Barra da Tijuca;6;6;6;610;20000.0;0.0;400.0;32.79;Casa
+Casa;Campo Grande;4;1;4;386;2400.0;0.0;0.0;6.22;Casa
+Casa;Barra da Tijuca;4;3;4;300;15000.0;1100.0;1070.0;50.0;Casa
+Casa;Pavuna;2;0;0;70;900.0;0.0;0.0;12.86;Casa
+Casa;Curicica;1;0;0;160;5500.0;0.0;0.0;34.38;Casa
+Casa;Pitangueiras;3;1;2;360;3200.0;0.0;0.0;8.89;Casa
+Casa;Campo Grande;2;1;0;60;800.0;0.0;0.0;13.33;Casa
+Casa;Tijuca;5;1;0;139;3500.0;0.0;545.0;25.18;Casa
+Casa;Campo Grande;2;0;0;55;1000.0;0.0;0.0;18.18;Casa
+Casa;Parque Anchieta;2;1;0;70;1250.0;0.0;0.0;17.86;Casa
+Casa;Campo Grande;4;3;0;120;1700.0;0.0;0.0;14.17;Casa
+Casa;Campo Grande;2;0;0;60;950.0;0.0;0.0;15.83;Casa
+Casa;Laranjeiras;5;1;0;350;7000.0;290.0;500.0;20.0;Casa
+Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;0.0;44.25;Casa
+Casa;Vila da Penha;2;0;0;50;700.0;0.0;0.0;14.0;Casa
+Casa;Vigário Geral;2;0;1;176;1300.0;0.0;0.0;7.39;Casa
+Casa;Campo Grande;2;2;1;80;1700.0;0.0;2.0;21.25;Casa
+Casa;Recreio dos Bandeirantes;4;5;3;600;12000.0;0.0;600.0;20.0;Casa
+Casa;Urca;4;2;4;330;21000.0;0.0;4200.0;63.64;Casa
+Casa;Barra da Tijuca;2;2;1;74;2500.0;770.0;0.0;33.78;Casa
+Casa;Andaraí;3;0;0;125;2900.0;0.0;96.0;23.2;Casa
+Casa;Rio Comprido;8;0;0;412;4000.0;0.0;958.0;9.71;Casa
+Casa;Lagoa;6;2;0;750;18000.0;0.0;1800.0;24.0;Casa
+Casa;Rocha;2;0;0;50;800.0;0.0;0.0;16.0;Casa
+Casa;Campo Grande;3;0;0;70;950.0;0.0;45.0;13.57;Casa
+Casa;Bonsucesso;1;0;0;50;600.0;0.0;0.0;12.0;Casa
+Casa;Laranjeiras;5;0;2;300;7000.0;290.0;0.0;23.33;Casa
+Casa;Abolição;2;3;0;80;2300.0;0.0;192.0;28.75;Casa
+Casa;Jardim Guanabara;3;4;1;200;3800.0;0.0;400.0;19.0;Casa
+Casa;Vila da Penha;2;0;0;36;700.0;0.0;0.0;19.44;Casa
+Casa;Jardim Botânico;4;4;4;451;20000.0;0.0;0.0;44.35;Casa
+Casa;Jardim Botânico;4;3;4;452;20000.0;0.0;1749.0;44.25;Casa
+Casa;Cosmos;2;3;0;67;1000.0;0.0;0.0;14.93;Casa
+Casa;Moneró;3;3;1;220;3400.0;0.0;4500.0;15.45;Casa
+Casa;Freguesia (Jacarepaguá);4;10;1;400;4900.0;0.0;0.0;12.25;Casa
+Casa;Barra da Tijuca;5;2;0;200;11000.0;1300.0;900.0;55.0;Casa
+Casa;Grajaú;1;0;0;30;1000.0;0.0;0.0;33.33;Casa
+Casa;Praça Seca;4;1;1;252;2300.0;0.0;201.0;9.13;Casa
+Casa;Vargem Grande;2;1;0;61;1100.0;570.0;0.0;18.03;Casa
+Casa;Cosmos;3;0;0;60;800.0;0.0;0.0;13.33;Casa
+Casa;Água Santa;1;1;0;40;1200.0;0.0;14.0;30.0;Casa
+Casa;Santa Teresa;5;2;3;237;7000.0;0.0;120.0;29.54;Casa
+Casa;Jardim Guanabara;3;6;1;325;3700.0;0.0;450.0;11.38;Casa
+Casa;Barra da Tijuca;4;0;3;170;4500.0;0.0;0.0;26.47;Casa
+Casa;Campo Grande;3;1;1;122;1100.0;0.0;153.0;9.02;Casa
+Casa;Encantado;4;2;1;180;2200.0;0.0;248.0;12.22;Casa
+Casa;Tijuca;3;0;0;120;2900.0;206.0;0.0;24.17;Casa
+Casa;Abolição;2;0;0;360;2000.0;0.0;0.0;5.56;Casa
+Casa;Joá;3;7;3;340;7500.0;1900.0;970.0;22.06;Casa
+Casa;Tijuca;7;4;0;400;10000.0;0.0;283.0;25.0;Casa
+Casa;Campo Grande;2;1;2;74;1200.0;0.0;0.0;16.22;Casa
+Casa;Santa Teresa;1;0;0;60;1300.0;0.0;85.0;21.67;Casa
+Casa;Cosme Velho;6;4;1;641;15000.0;900.0;1000.0;23.4;Casa
+Casa;Recreio dos Bandeirantes;5;3;4;217;11000.0;1248.0;3242.0;50.69;Casa
+Casa;Rio Comprido;6;1;0;380;2000.0;0.0;320.0;5.26;Casa
+Casa;Santa Teresa;3;3;1;400;6000.0;0.0;0.0;15.0;Casa
+Casa;Campo Grande;4;0;1;366;1890.0;0.0;208.0;5.16;Casa
+Casa;Urca;4;1;2;320;20000.0;0.0;423.0;62.5;Casa
+Casa;Vila Valqueire;2;2;0;155;1200.0;0.0;0.0;7.74;Casa
+Casa;Santa Teresa;5;4;0;380;8000.0;0.0;269.0;21.05;Casa
+Casa;Barra da Tijuca;5;3;5;776;20000.0;2130.0;20000.0;25.77;Casa
+Casa;Barra da Tijuca;4;3;4;700;16000.0;2140.0;1700.0;22.86;Casa
+Casa;Irajá;1;0;0;35;700.0;0.0;0.0;20.0;Casa
+Casa;Cosmos;2;1;0;50;700.0;200.0;0.0;14.0;Casa
+Casa;Anil;7;2;1;268;3300.0;0.0;430.0;12.31;Casa
+Casa;Ramos;1;0;0;45;850.0;0.0;0.0;18.89;Casa
+Casa;Campo Grande;4;0;0;159;1800.0;0.0;0.0;11.32;Casa
+Casa;Campo Grande;3;1;3;114;1500.0;0.0;0.0;13.16;Casa
+Casa;Campo Grande;4;0;2;324;3000.0;0.0;0.0;9.26;Casa
+Casa;Maria da Graça;2;0;0;52;950.0;100.0;11.0;18.27;Casa
+Casa;Itanhangá;5;3;5;400;12000.0;0.0;2200.0;30.0;Casa
+Casa;Freguesia (Jacarepaguá);2;0;0;150;3300.0;0.0;860.0;22.0;Casa
+Casa;Braz de Pina;4;1;0;99;1800.0;0.0;0.0;18.18;Casa
+Casa;Vila da Penha;2;0;0;115;1200.0;0.0;0.0;10.43;Casa
+Casa;Praça Seca;2;0;0;60;850.0;0.0;13.0;14.17;Casa
+Casa;Madureira;1;0;0;30;1100.0;0.0;0.0;36.67;Casa
+Casa;Campo Grande;2;1;0;91;1200.0;0.0;0.0;13.19;Casa
+Casa;Barra da Tijuca;2;0;2;74;1850.0;0.0;162.0;25.0;Casa
+Casa;Vigário Geral;1;0;0;40;550.0;0.0;0.0;13.75;Casa
+Casa;Oswaldo Cruz;1;1;0;60;700.0;0.0;0.0;11.67;Casa
+Casa;Encantado;1;0;0;40;1000.0;0.0;17.0;25.0;Casa
+Casa;Anchieta;2;2;0;70;950.0;0.0;0.0;13.57;Casa
+Casa;Campo Grande;4;1;3;100;1600.0;0.0;0.0;16.0;Casa
+Casa;Cosme Velho;4;3;1;379;15000.0;1200.0;0.0;39.58;Casa
+Casa;Vila Valqueire;3;0;1;128;1500.0;0.0;45.0;11.72;Casa
+Casa;Bangu;3;2;0;100;1450.0;0.0;0.0;14.5;Casa
+Casa;Barra da Tijuca;5;8;5;640;18000.0;950.0;18000.0;28.12;Casa
+Casa;Campo Grande;2;1;0;70;650.0;0.0;0.0;9.29;Casa
+Casa;Vila Kosmos;1;0;0;60;1000.0;0.0;0.0;16.67;Casa
+Casa;Jardim América;2;1;0;52;850.0;0.0;0.0;16.35;Casa
+Casa;Jardim Botânico;4;1;2;500;15000.0;0.0;500.0;30.0;Casa
+Casa;Barra da Tijuca;5;6;0;400;20000.0;0.0;590.0;50.0;Casa
+Casa;Campo Grande;2;0;0;60;700.0;0.0;0.0;11.67;Casa
+Casa;Jardim Botânico;4;4;1;465;12000.0;880.0;1550.0;25.81;Casa
+Casa;Grajaú;4;5;1;270;4800.0;0.0;2300.0;17.78;Casa
+Casa;Vila da Penha;3;1;2;93;2000.0;0.0;0.0;21.51;Casa
+Casa;Curicica;3;3;1;308;3500.0;0.0;2435.0;11.36;Casa
+Casa;Encantado;2;1;0;72;1400.0;0.0;34.0;19.44;Casa
+Casa;Joá;5;2;4;595;10000.0;0.0;0.0;16.81;Casa
+Casa;Marechal Hermes;1;0;0;45;700.0;0.0;0.0;15.56;Casa
+Casa;Vila Isabel;2;0;0;70;2000.0;0.0;0.0;28.57;Casa
+Casa;Campo Grande;2;1;0;90;1200.0;0.0;0.0;13.33;Casa
+Casa;Bento Ribeiro;3;3;0;70;2000.0;0.0;0.0;28.57;Casa
+Casa;Méier;1;0;0;50;900.0;0.0;14.0;18.0;Casa
+Casa;Vargem Grande;5;1;2;400;4200.0;50.0;0.0;10.5;Casa
+Casa;Campo Grande;1;0;0;70;700.0;0.0;0.0;10.0;Casa
+Casa;Olaria;1;0;1;11;800.0;0.0;0.0;72.73;Casa
+Casa;Recreio dos Bandeirantes;4;2;3;600;15000.0;0.0;600.0;25.0;Casa
+Casa;Laranjeiras;6;3;1;450;11000.0;0.0;0.0;24.44;Casa
+Casa;Méier;6;1;0;347;9000.0;0.0;0.0;25.94;Casa
+Casa;Laranjeiras;2;0;0;46;1850.0;179.0;29.0;40.22;Casa
+Casa;Urca;5;2;2;350;19000.0;0.0;0.0;54.29;Casa
+Casa;Realengo;2;0;0;80;800.0;0.0;26.0;10.0;Casa
+Casa;Oswaldo Cruz;2;0;0;89;1500.0;0.0;0.0;16.85;Casa
+Casa;Campo Grande;4;1;2;235;2500.0;0.0;0.0;10.64;Casa
+Casa;Campo Grande;2;1;1;120;1500.0;0.0;0.0;12.5;Casa
+Casa;Barra da Tijuca;5;4;5;420;11991.0;885.0;0.0;28.55;Casa
+Casa;Jardim Botânico;5;4;5;1400;20000.0;0.0;1912.0;14.29;Casa
+Casa;Honório Gurgel;1;0;0;40;500.0;0.0;0.0;12.5;Casa
+Casa;Campo Grande;1;2;1;160;2300.0;0.0;0.0;14.38;Casa
+Casa;Vila da Penha;1;0;0;50;900.0;0.0;0.0;18.0;Casa
+Casa;Campo Grande;4;1;2;180;1850.0;300.0;0.0;10.28;Casa
+Casa;Tijuca;3;1;0;198;2000.0;0.0;0.0;10.1;Casa
+Casa;Pilares;1;0;0;50;900.0;0.0;0.0;18.0;Casa
+Casa;Humaitá;4;0;0;300;7500.0;0.0;2100.0;25.0;Casa
+Casa;Recreio dos Bandeirantes;4;5;3;386;15000.0;0.0;610.0;38.86;Casa
+Casa;Abolição;2;1;0;70;1180.0;0.0;151.0;16.86;Casa
+Casa;Pedra de Guaratiba;1;2;0;70;660.0;0.0;0.0;9.43;Casa
+Casa;Barra da Tijuca;5;4;0;350;12000.0;1000.0;600.0;34.29;Casa
+Casa;Santa Teresa;2;0;1;80;1500.0;0.0;0.0;18.75;Casa
+Casa;Grajaú;3;1;0;120;2900.0;0.0;150.0;24.17;Casa
+Casa;Irajá;4;2;4;176;4500.0;0.0;0.0;25.57;Casa
+Casa;Campo Grande;3;1;2;200;2500.0;0.0;0.0;12.5;Casa
+Casa;Jardim América;1;0;0;38;550.0;0.0;0.0;14.47;Casa
+Casa;Recreio dos Bandeirantes;4;2;2;473;3200.0;0.0;928.0;6.77;Casa
+Casa;Vila Valqueire;1;0;0;60;900.0;0.0;0.0;15.0;Casa
+Casa;Bento Ribeiro;1;1;0;50;1100.0;0.0;0.0;22.0;Casa
+Casa;Barra da Tijuca;5;10;5;600;20000.0;2000.0;0.0;33.33;Casa
+Casa;Gávea;3;6;2;363;15000.0;0.0;704.0;41.32;Casa
+Casa;Urca;4;1;1;160;12000.0;0.0;0.0;75.0;Casa
+Casa;Campo Grande;2;0;0;45;1000.0;0.0;0.0;22.22;Casa
+Casa;Ipanema;1;0;1;39;3000.0;500.0;200.0;76.92;Casa
+Casa;Gávea;4;4;0;450;14000.0;0.0;7200.0;31.11;Casa
+Casa;Madureira;2;0;0;32;1300.0;0.0;0.0;40.62;Casa
+Casa;Barra da Tijuca;3;4;1;493;7500.0;2634.0;1235.0;15.21;Casa
+Casa;Barra da Tijuca;5;3;2;412;10000.0;1050.0;0.0;24.27;Casa
+Casa;Campo Grande;3;0;1;90;1150.0;0.0;0.0;12.78;Casa
+Casa;Itanhangá;4;2;1;450;8000.0;0.0;937.0;17.78;Casa
+Casa;Campo Grande;1;1;0;37;600.0;0.0;0.0;16.22;Casa
+Casa;Joá;4;7;0;340;9990.0;0.0;970.0;29.38;Casa
+Casa;Campo Grande;2;1;0;65;900.0;500.0;0.0;13.85;Casa
+Casa;Barra da Tijuca;6;3;4;599;12000.0;1600.0;1200.0;20.03;Casa
+Casa;Tijuca;2;0;0;71;2300.0;25.0;0.0;32.39;Casa
+Casa;Vargem Grande;6;0;6;1000;20000.0;0.0;715.0;20.0;Casa
+Casa;Campo Grande;3;1;3;115;1500.0;0.0;0.0;13.04;Casa
+Casa;Ribeira;3;0;0;65;1200.0;0.0;0.0;18.46;Casa
+Casa;Bonsucesso;2;0;0;72;2000.0;0.0;0.0;27.78;Casa
+Casa;Pechincha;2;0;0;55;1000.0;0.0;0.0;18.18;Casa
+Casa;Urca;5;2;4;320;21000.0;0.0;0.0;65.62;Casa
+Casa;Vila da Penha;2;0;0;70;1200.0;0.0;0.0;17.14;Casa
+Casa;Andaraí;2;1;0;80;1580.0;0.0;30.0;19.75;Casa
+Casa;São Conrado;5;3;3;500;14000.0;0.0;508.0;28.0;Casa
+Casa;Jardim Botânico;5;2;2;276;15000.0;0.0;525.0;54.35;Casa
+Casa;Campo Grande;2;1;2;80;950.0;0.0;0.0;11.88;Casa
+Casa;Jardim Guanabara;2;0;0;100;900.0;0.0;0.0;9.0;Casa
+Casa;Campo Grande;2;2;0;80;1000.0;0.0;0.0;12.5;Casa
+Casa;Jardim Botânico;4;3;4;500;20000.0;0.0;1800.0;40.0;Casa
+Casa;Recreio dos Bandeirantes;4;3;1;350;4500.0;0.0;0.0;12.86;Casa
+Casa;Paciência;1;0;0;40;650.0;0.0;0.0;16.25;Casa
+Casa;Urca;6;2;2;260;18000.0;0.0;0.0;69.23;Casa
+Casa;Cascadura;2;0;0;65;1500.0;0.0;0.0;23.08;Casa
+Casa;Campo Grande;1;1;0;50;550.0;0.0;2.0;11.0;Casa
+Casa;Irajá;2;0;0;60;850.0;0.0;0.0;14.17;Casa
+Casa;São Conrado;4;3;2;380;10000.0;0.0;730.0;26.32;Casa
+Casa;Santa Teresa;1;0;0;70;1400.0;0.0;21.0;20.0;Casa
+Casa;Madureira;3;0;0;112;1200.0;0.0;0.0;10.71;Casa
+Casa;Bento Ribeiro;1;0;0;38;600.0;0.0;0.0;15.79;Casa
+Casa;Jardim Botânico;4;0;3;280;10000.0;0.0;520.0;35.71;Casa
+Casa;Recreio dos Bandeirantes;3;3;1;120;2200.0;926.0;260.0;18.33;Casa
+Casa;Campo Grande;6;4;0;180;10000.0;0.0;0.0;55.56;Casa
+Casa;Vila Isabel;3;0;0;90;2000.0;0.0;0.0;22.22;Casa
+Casa;Freguesia (Jacarepaguá);4;3;0;318;4500.0;0.0;0.0;14.15;Casa
+Casa;Barra da Tijuca;5;1;2;244;7000.0;1624.0;618.0;28.69;Casa
+Casa;Ramos;1;0;1;50;800.0;0.0;0.0;16.0;Casa
+Casa;Campo Grande;2;1;0;70;1200.0;0.0;0.0;17.14;Casa
+Casa;Bancários;2;4;1;195;2800.0;0.0;138.0;14.36;Casa
+Casa;Campo Grande;2;3;1;90;1700.0;0.0;0.0;18.89;Casa
+Casa;Campo Grande;2;2;1;100;1000.0;0.0;0.0;10.0;Casa
+Casa;Méier;3;1;0;80;2000.0;0.0;0.0;25.0;Casa
+Casa;Tijuca;2;0;0;107;2300.0;500.0;0.0;21.5;Casa
+Casa;Vila Valqueire;2;1;1;65;1700.0;0.0;0.0;26.15;Casa
+Casa;Freguesia (Jacarepaguá);4;3;4;400;16000.0;0.0;2200.0;40.0;Casa
+Casa;Engenho de Dentro;1;0;0;50;800.0;0.0;17.0;16.0;Casa
+Casa;Paciência;1;0;0;40;700.0;0.0;0.0;17.5;Casa
+Casa;Recreio dos Bandeirantes;4;0;2;600;8500.0;0.0;1858.0;14.17;Casa
+Casa;Bonsucesso;3;0;0;75;1800.0;0.0;44.0;24.0;Casa
+Casa;Praça Seca;1;0;0;30;400.0;35.0;0.0;13.33;Casa
+Casa;Campo Grande;2;1;0;120;2500.0;0.0;0.0;20.83;Casa
+Casa;Vila Isabel;2;1;1;100;2800.0;0.0;400.0;28.0;Casa
+Casa;Recreio dos Bandeirantes;3;3;1;300;4500.0;0.0;0.0;15.0;Casa
+Casa;Madureira;1;0;0;40;800.0;0.0;0.0;20.0;Casa
+Casa;Vargem Pequena;2;3;2;300;7500.0;0.0;0.0;25.0;Casa
+Casa;Cocotá;3;1;3;300;4000.0;0.0;1500.0;13.33;Casa
+Casa;Olaria;2;0;1;119;1700.0;0.0;0.0;14.29;Casa
+Casa;Laranjeiras;5;6;5;980;10000.0;0.0;1200.0;10.2;Casa
+Casa;Botafogo;2;1;1;108;3800.0;0.0;0.0;35.19;Casa
+Casa;Recreio dos Bandeirantes;3;30;0;600;8000.0;0.0;280.0;13.33;Casa
+Casa;São Conrado;4;5;3;3000;22000.0;2700.0;1700.0;7.33;Casa
+Casa;Campo Grande;2;1;0;73;1200.0;0.0;0.0;16.44;Casa
+Casa;Recreio dos Bandeirantes;5;4;3;360;15000.0;0.0;607.0;41.67;Casa
+Casa;Recreio dos Bandeirantes;4;2;2;200;2300.0;870.0;140.0;11.5;Casa
+Casa;Botafogo;4;0;1;300;10500.0;0.0;40.0;35.0;Casa
+Casa;Barra da Tijuca;5;4;5;600;12000.0;2300.0;0.0;20.0;Casa
+Casa;Curicica;3;1;1;180;1950.0;0.0;0.0;10.83;Casa
+Casa;Grajaú;3;1;0;294;3500.0;0.0;0.0;11.9;Casa
+Casa;Campo Grande;4;2;0;120;1600.0;0.0;0.0;13.33;Casa
+Casa;Barra da Tijuca;1;0;1;55;1600.0;0.0;0.0;29.09;Casa
+Casa;Cosmos;1;1;0;36;500.0;0.0;0.0;13.89;Casa
+Casa;Jacaré;2;1;0;80;1500.0;0.0;150.0;18.75;Casa
+Casa;Campo Grande;1;1;0;61;830.0;0.0;0.0;13.61;Casa
+Casa;Curicica;3;5;1;150;2500.0;0.0;1200.0;16.67;Casa
+Casa;Inhoaíba;1;0;0;50;600.0;0.0;0.0;12.0;Casa
+Casa;Pechincha;5;3;1;300;3000.0;0.0;290.0;10.0;Casa
+Casa;Méier;4;1;0;180;2500.0;0.0;80.0;13.89;Casa
+Casa;Irajá;2;1;1;60;1150.0;0.0;0.0;19.17;Casa
+Casa;Turiaçu;2;1;0;45;700.0;0.0;0.0;15.56;Casa
+Casa;Freguesia (Jacarepaguá);4;2;3;169;3100.0;600.0;225.0;18.34;Casa
+Casa;Campo Grande;2;0;0;116;1100.0;0.0;0.0;9.48;Casa
+Casa;Centro;2;0;0;207;4000.0;0.0;0.0;19.32;Casa
+Casa;Campo Grande;3;0;1;140;1500.0;0.0;0.0;10.71;Casa
+Casa;Taquara;3;3;0;280;4000.0;0.0;1200.0;14.29;Casa
+Casa;Barra da Tijuca;6;0;5;800;18000.0;825.0;1786.0;22.5;Casa
+Casa;Rocha Miranda;1;0;0;44;700.0;0.0;0.0;15.91;Casa
+Casa;Andaraí;3;1;0;75;2950.0;0.0;0.0;39.33;Casa
+Casa;Lagoa;3;3;1;250;8600.0;1900.0;580.0;34.4;Casa
+Casa;Engenho Novo;1;0;0;40;450.0;0.0;0.0;11.25;Casa
+Casa;Maracanã;4;2;1;240;6500.0;0.0;700.0;27.08;Casa
+Casa;Campo Grande;2;1;2;86;1500.0;0.0;0.0;17.44;Casa
+Casa;Vila da Penha;2;1;0;80;1500.0;0.0;0.0;18.75;Casa
+Casa;Campo Grande;1;0;0;50;600.0;0.0;0.0;12.0;Casa
+Casa;Recreio dos Bandeirantes;4;2;2;352;6500.0;0.0;0.0;18.47;Casa
+Casa;Bento Ribeiro;2;1;0;60;1400.0;0.0;0.0;23.33;Casa
+Casa;Centro;5;0;1;160;5000.0;0.0;80.0;31.25;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;750;22000.0;0.0;0.0;29.33;Casa
+Casa de Condomínio;Ramos;2;2;0;65;1000.0;0.0;0.0;15.38;Casa
+Casa de Condomínio;Taquara;3;1;1;115;2000.0;0.0;0.0;17.39;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;466;7500.0;2695.0;0.0;16.09;Casa
+Casa de Condomínio;Barra da Tijuca;5;10;5;1600;25000.0;1600.0;0.0;15.62;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);5;3;1;140;2500.0;1200.0;0.0;17.86;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;595;30000.0;2500.0;2510.0;50.42;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;4;267;6500.0;700.0;3308.0;24.34;Casa
+Casa de Condomínio;São Conrado;3;2;1;250;5500.0;750.0;500.0;22.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;1000;30000.0;2695.0;23715.0;30.0;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);2;1;0;163;1800.0;92.0;46.0;11.04;Casa
+Casa de Condomínio;Vargem Grande;2;2;1;90;1700.0;618.0;338.0;18.89;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;640;13800.0;980.0;1800.0;21.56;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;1000;20000.0;1800.0;1800.0;20.0;Casa
+Casa de Condomínio;Vargem Grande;5;4;5;300;5000.0;1500.0;250.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;188;6000.0;1022.0;0.0;31.91;Casa
+Casa de Condomínio;Barra da Tijuca;3;0;2;367;6000.0;510.0;423.0;16.35;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;280;8500.0;750.0;620.0;30.36;Casa
+Casa de Condomínio;Tanque;2;0;1;100;1500.0;160.0;80.0;15.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;198;4500.0;1160.0;3012.0;22.73;Casa
+Casa de Condomínio;Santíssimo;2;1;0;70;800.0;200.0;0.0;11.43;Casa
+Casa de Condomínio;Jardim Botânico;4;4;1;380;12000.0;870.0;1290.0;31.58;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;3;280;11000.0;1200.0;1100.0;39.29;Casa
+Casa de Condomínio;Campo Grande;2;2;0;100;1200.0;40.0;1.0;12.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;1050;15000.0;2000.0;2000.0;14.29;Casa
+Casa de Condomínio;Joá;6;4;6;550;25000.0;0.0;672.0;45.45;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;5;600;20000.0;2300.0;0.0;33.33;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;4;540;10500.0;850.0;1000.0;19.44;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;470;8500.0;510.0;600.0;18.09;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;227;4000.0;833.0;459.0;17.62;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;450;6900.0;1150.0;750.0;15.33;Casa
+Casa de Condomínio;Campo Grande;2;1;1;75;1100.0;400.0;0.0;14.67;Casa
+Casa de Condomínio;Vargem Grande;2;1;0;61;1450.0;667.0;27.0;23.77;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;746;13000.0;510.0;4910.0;17.43;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;3;350;5900.0;300.0;0.0;16.86;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;2;3;240;4000.0;1200.0;320.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;300;9000.0;805.0;0.0;30.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;340;9000.0;706.0;8024.0;26.47;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;300;3600.0;510.0;0.0;12.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;800;15000.0;2000.0;0.0;18.75;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;5;1;350;6000.0;862.0;210.0;17.14;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;700;16000.0;2150.0;17000.0;22.86;Casa
+Casa de Condomínio;Campo Grande;1;1;0;60;780.0;240.0;0.0;13.0;Casa
+Casa de Condomínio;Vargem Grande;4;6;4;500;7000.0;2400.0;0.0;14.0;Casa
+Casa de Condomínio;Campo Grande;2;1;0;70;1000.0;260.0;0.0;14.29;Casa
+Casa de Condomínio;Barra da Tijuca;6;2;6;556;20000.0;1050.0;0.0;35.97;Casa
+Casa de Condomínio;Barra da Tijuca;6;0;4;800;17000.0;2695.0;2220.0;21.25;Casa
+Casa de Condomínio;Vargem Grande;2;2;1;90;1900.0;550.0;250.0;21.11;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;700;25000.0;0.0;0.0;35.71;Casa
+Casa de Condomínio;Vargem Grande;3;2;1;160;3900.0;0.0;0.0;24.38;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;2;630;8000.0;945.0;530.0;12.7;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;2;450;8500.0;850.0;5500.0;18.89;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;700;25000.0;2000.0;1000.0;35.71;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;1100;15000.0;2000.0;0.0;13.64;Casa
+Casa de Condomínio;Anil;4;3;2;400;4500.0;380.0;1200.0;11.25;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;750;30000.0;2100.0;18000.0;40.0;Casa
+Casa de Condomínio;Guaratiba;2;1;0;50;700.0;180.0;0.0;14.0;Casa
+Casa de Condomínio;Itanhangá;4;4;4;680;12000.0;1688.0;0.0;17.65;Casa
+Casa de Condomínio;Taquara;4;2;3;125;3000.0;513.0;0.0;24.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;280;6000.0;860.0;478.0;21.43;Casa
+Casa de Condomínio;Guaratiba;2;1;2;70;1600.0;0.0;0.0;22.86;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;788;18000.0;2000.0;2100.0;22.84;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;168;4000.0;1160.0;3012.0;23.81;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;600;25000.0;0.0;0.0;41.67;Casa
+Casa de Condomínio;Taquara;4;2;3;200;3000.0;300.0;0.0;15.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;5;700;25000.0;0.0;1800.0;35.71;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;4;1000;28009.0;1600.0;15000.0;28.01;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;3;280;7800.0;1495.0;0.0;27.86;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);2;1;1;98;1500.0;50.0;50.0;15.31;Casa
+Casa de Condomínio;Leblon;5;0;5;850;30000.0;1500.0;2600.0;35.29;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;3;270;20000.0;1150.0;650.0;74.07;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;806;24000.0;2081.0;2300.0;29.78;Casa
+Casa de Condomínio;Jacarepaguá;4;0;4;400;12000.0;800.0;600.0;30.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;0;900;20000.0;1308.0;1601.0;22.22;Casa
+Casa de Condomínio;Campo Grande;2;0;0;75;1500.0;360.0;0.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;869;24000.0;2214.0;2376.0;27.62;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;300;14000.0;1200.0;350.0;46.67;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;161;5000.0;900.0;2200.0;31.06;Casa
+Casa de Condomínio;Vargem Grande;4;1;2;180;2300.0;0.0;20.0;12.78;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;700;15000.0;2400.0;18000.0;21.43;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;5;900;30000.0;1900.0;1400.0;33.33;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;800;30000.0;2700.0;18300.0;37.5;Casa
+Casa de Condomínio;Campo Grande;2;2;0;200;1100.0;280.0;0.0;5.5;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;4;407;9000.0;1049.0;8426.0;22.11;Casa
+Casa de Condomínio;Barra da Tijuca;4;7;4;496;20000.0;1500.0;1306.0;40.32;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;200;4800.0;850.0;4500.0;24.0;Casa
+Casa de Condomínio;Vargem Grande;2;2;1;90;1700.0;618.0;338.0;18.89;Casa
+Casa de Condomínio;Itanhangá;5;4;5;865;20000.0;1900.0;1990.0;23.12;Casa
+Casa de Condomínio;Leblon;4;4;4;653;15000.0;3473.0;0.0;22.97;Casa
+Casa de Condomínio;Vargem Pequena;3;2;3;175;2500.0;150.0;0.0;14.29;Casa
+Casa de Condomínio;Leblon;5;0;5;900;30000.0;1500.0;0.0;33.33;Casa
+Casa de Condomínio;Barra da Tijuca;3;0;3;680;15000.0;1150.0;800.0;22.06;Casa
+Casa de Condomínio;Barra da Tijuca;6;5;0;906;22000.0;2900.0;2519.0;24.28;Casa
+Casa de Condomínio;Vargem Grande;5;6;5;304;8000.0;1680.0;2105.0;26.32;Casa
+Casa de Condomínio;Barra da Tijuca;6;6;6;900;12000.0;2000.0;18000.0;13.33;Casa
+Casa de Condomínio;Barra da Tijuca;7;8;7;913;30000.0;2882.0;0.0;32.86;Casa
+Casa de Condomínio;Vargem Grande;2;2;1;90;1700.0;618.0;338.0;18.89;Casa
+Casa de Condomínio;Pedra de Guaratiba;2;1;0;60;900.0;300.0;0.0;15.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;4;1000;32000.0;3000.0;1700.0;32.0;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;1;1;163;2000.0;92.0;46.0;12.27;Casa
+Casa de Condomínio;Itanhangá;3;3;1;350;12000.0;1485.0;250.0;34.29;Casa
+Casa de Condomínio;Barra da Tijuca;7;5;6;850;20000.0;2340.0;15000.0;23.53;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;2;600;10000.0;800.0;1000.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;805;20000.0;1700.0;14000.0;24.84;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;3;1;370;7000.0;1000.0;0.0;18.92;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;4;4;280;7500.0;1500.0;400.0;26.79;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;0;358;10000.0;2333.0;9900.0;27.93;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;4;500;13000.0;2500.0;2000.0;26.0;Casa
+Casa de Condomínio;Vargem Grande;2;4;2;150;4000.0;180.0;50.0;26.67;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;3;550;8000.0;900.0;600.0;14.55;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;2;250;4500.0;605.0;0.0;18.0;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;2;4;253;2500.0;180.0;240.0;9.88;Casa
+Casa de Condomínio;Santa Teresa;2;0;0;72;1400.0;820.0;70.0;19.44;Casa
+Casa de Condomínio;Itanhangá;5;0;5;950;15000.0;1950.0;2500.0;15.79;Casa
+Casa de Condomínio;Gávea;3;1;1;150;5000.0;3100.0;544.0;33.33;Casa
+Casa de Condomínio;Vista Alegre;2;1;0;59;1200.0;260.0;0.0;20.34;Casa
+Casa de Condomínio;Campo Grande;2;2;0;90;2000.0;100.0;30.0;22.22;Casa
+Casa de Condomínio;Campo Grande;2;1;0;90;1300.0;441.0;262.0;14.44;Casa
+Casa de Condomínio;Barra da Tijuca;6;3;4;400;15000.0;1759.0;0.0;37.5;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;2;360;8400.0;500.0;8000.0;23.33;Casa
+Casa de Condomínio;Itanhangá;4;0;3;300;6000.0;1520.0;800.0;20.0;Casa
+Casa de Condomínio;Campo Grande;2;1;2;80;1200.0;150.0;0.0;15.0;Casa
+Casa de Condomínio;Madureira;2;0;0;70;900.0;0.0;68.0;12.86;Casa
+Casa de Condomínio;Barra da Tijuca;3;5;3;681;20000.0;1907.0;18098.0;29.37;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;2;316;10000.0;1100.0;8341.0;31.65;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;0;3;500;18000.0;800.0;0.0;36.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;2;600;30000.0;1100.0;1399.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;350;7000.0;934.0;890.0;20.0;Casa
+Casa de Condomínio;Copacabana;3;1;2;130;8000.0;0.0;80.0;61.54;Casa
+Casa de Condomínio;Vargem Grande;3;2;3;350;8000.0;1300.0;0.0;22.86;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;2;1;225;4500.0;465.0;1311.0;20.0;Casa
+Casa de Condomínio;Botafogo;1;4;0;400;18000.0;0.0;0.0;45.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;700;16000.0;2150.0;17000.0;22.86;Casa
+Casa de Condomínio;Ramos;3;1;1;200;1400.0;0.0;0.0;7.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;8;4;700;18000.0;1700.0;2700.0;25.71;Casa
+Casa de Condomínio;Barra da Tijuca;4;8;1;400;7000.0;800.0;780.0;17.5;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;3;1750;15000.0;2900.0;1798.0;8.57;Casa
+Casa de Condomínio;Icaraí;3;2;0;88;2100.0;430.0;320.0;23.86;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;1;400;8500.0;880.0;780.0;21.25;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;250;8000.0;1800.0;3600.0;32.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;1;350;7500.0;957.0;0.0;21.43;Casa
+Casa de Condomínio;Vargem Grande;1;1;0;35;800.0;250.0;0.0;22.86;Casa
+Casa de Condomínio;Botafogo;3;0;2;150;5400.0;400.0;200.0;36.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;2;5;290;4000.0;1100.0;0.0;13.79;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;168;4500.0;0.0;0.0;26.79;Casa
+Casa de Condomínio;Senador Vasconcelos;2;1;0;70;900.0;0.0;0.0;12.86;Casa
+Casa de Condomínio;Barra da Tijuca;8;7;5;1000;18000.0;2150.0;2500.0;18.0;Casa
+Casa de Condomínio;Barra da Tijuca;6;3;3;521;12000.0;1800.0;1100.0;23.03;Casa
+Casa de Condomínio;Inhaúma;2;1;0;81;1000.0;90.0;252.0;12.35;Casa
+Casa de Condomínio;Vargem Grande;3;3;3;531;10000.0;1562.0;400.0;18.83;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;3;268;7500.0;650.0;545.0;27.99;Casa
+Casa de Condomínio;Gávea;6;10;6;1500;25000.0;8300.0;3650.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;350;7000.0;750.0;0.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;765;13900.0;2500.0;3000.0;18.17;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;325;8000.0;850.0;500.0;24.62;Casa
+Casa de Condomínio;Barra da Tijuca;3;4;1;350;8500.0;1172.0;721.0;24.29;Casa
+Casa de Condomínio;Campo Grande;2;1;0;90;600.0;300.0;0.0;6.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;4;350;12000.0;850.0;0.0;34.29;Casa
+Casa de Condomínio;Leblon;4;3;4;600;15000.0;3250.0;2300.0;25.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;380;6000.0;500.0;0.0;15.79;Casa
+Casa de Condomínio;Taquara;4;2;1;150;2500.0;250.0;1400.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;1008;10000.0;1129.0;1486.0;9.92;Casa
+Casa de Condomínio;Jacarepaguá;3;6;1;312;3200.0;845.0;396.0;10.26;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;239;4500.0;1300.0;0.0;18.83;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;1;348;8500.0;1003.0;6968.0;24.43;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;790;25000.0;1350.0;3400.0;31.65;Casa
+Casa de Condomínio;Santa Teresa;2;0;0;90;1300.0;1500.0;20.0;14.44;Casa
+Casa de Condomínio;Itanhangá;5;2;2;450;12000.0;1350.0;850.0;26.67;Casa
+Casa de Condomínio;Guaratiba;2;1;2;75;1600.0;0.0;0.0;21.33;Casa
+Casa de Condomínio;Gávea;5;3;1;429;13000.0;1000.0;769.0;30.3;Casa
+Casa de Condomínio;Campo Grande;2;1;0;100;650.0;100.0;0.0;6.5;Casa
+Casa de Condomínio;Pedra de Guaratiba;2;1;0;60;800.0;300.0;0.0;13.33;Casa
+Casa de Condomínio;Itanhangá;6;6;4;800;8500.0;0.0;0.0;10.62;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;2;480;8000.0;800.0;700.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;4;300;9000.0;820.0;6370.0;30.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;760;23009.0;2080.0;0.0;30.28;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;350;9000.0;934.0;8865.0;25.71;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;600;22000.0;1028.0;18558.0;36.67;Casa
+Casa de Condomínio;Barra da Tijuca;4;6;3;681;18000.0;1907.0;1941.0;26.43;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;2;350;12000.0;1908.0;1270.0;34.29;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;3;700;14000.0;1500.0;1100.0;20.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;3;213;3800.0;1234.0;335.0;17.84;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;622;10000.0;1390.0;14000.0;16.08;Casa
+Casa de Condomínio;Vargem Grande;1;1;1;100;1750.0;220.0;0.0;17.5;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;341;9000.0;850.0;766.0;26.39;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;3;453;8500.0;520.0;684.0;18.76;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;3;600;7800.0;1001.0;955.0;13.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;600;15000.0;2200.0;1000.0;25.0;Casa
+Casa de Condomínio;Campo Grande;3;2;2;120;2200.0;100.0;0.0;18.33;Casa
+Casa de Condomínio;Barra da Tijuca;6;0;6;750;12000.0;1980.0;1200.0;16.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;1;400;7900.0;1500.0;0.0;19.75;Casa
+Casa de Condomínio;Leblon;6;2;2;350;18000.0;3400.0;1351.0;51.43;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;450;6499.0;1150.0;800.0;14.44;Casa
+Casa de Condomínio;Tanque;3;1;0;111;2300.0;80.0;200.0;20.72;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;315;15000.0;1200.0;850.0;47.62;Casa
+Casa de Condomínio;Guaratiba;2;1;0;72;1000.0;160.0;0.0;13.89;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;300;9000.0;950.0;5500.0;30.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;190;2000.0;1270.0;400.0;10.53;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;291;12000.0;550.0;4950.0;41.24;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;585;17000.0;1748.0;1210.0;29.06;Casa
+Casa de Condomínio;Campo Grande;2;3;0;100;1400.0;85.0;0.0;14.0;Casa
+Casa de Condomínio;Campo Grande;2;1;0;74;1100.0;300.0;0.0;14.86;Casa
+Casa de Condomínio;Barra da Tijuca;6;6;6;1000;24009.0;0.0;0.0;24.01;Casa
+Casa de Condomínio;São Conrado;3;3;1;400;7000.0;0.0;3000.0;17.5;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;500;10000.0;1050.0;1300.0;20.0;Casa
+Casa de Condomínio;São Francisco Xavier;2;1;0;70;1100.0;0.0;0.0;15.71;Casa
+Casa de Condomínio;Campo Grande;2;1;0;70;900.0;200.0;0.0;12.86;Casa
+Casa de Condomínio;Anil;5;0;3;520;4900.0;723.0;519.0;9.42;Casa
+Casa de Condomínio;Itanhangá;4;4;4;600;20000.0;1800.0;0.0;33.33;Casa
+Casa de Condomínio;Ilha do Governador;3;4;1;160;3500.0;0.0;152.0;21.88;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;260;7000.0;7068.0;5998.0;26.92;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;980;22000.0;1400.0;800.0;22.45;Casa
+Casa de Condomínio;Vargem Grande;2;1;0;75;2000.0;580.0;0.0;26.67;Casa
+Casa de Condomínio;Barra da Tijuca;3;2;0;230;5800.0;1400.0;440.0;25.22;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;340;10000.0;1100.0;550.0;29.41;Casa
+Casa de Condomínio;Campo Grande;1;0;0;50;700.0;0.0;0.0;14.0;Casa
+Casa de Condomínio;Campo Grande;2;1;0;55;1000.0;0.0;0.0;18.18;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;5;4;500;10500.0;1000.0;0.0;21.0;Casa
+Casa de Condomínio;Taquara;2;1;0;55;1000.0;450.0;0.0;18.18;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;3;622;10000.0;1390.0;1486.0;16.08;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;434;7500.0;2694.0;1150.0;17.28;Casa
+Casa de Condomínio;Vargem Grande;5;3;5;300;6000.0;1300.0;200.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;622;10000.0;1390.0;1486.0;16.08;Casa
+Casa de Condomínio;Jacarepaguá;2;1;1;90;1700.0;208.0;35.0;18.89;Casa
+Casa de Condomínio;Barra da Tijuca;6;8;0;924;13000.0;2214.0;1060.0;14.07;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;850;18009.0;1560.0;0.0;21.19;Casa
+Casa de Condomínio;Joá;6;3;5;300;25000.0;0.0;0.0;83.33;Casa
+Casa de Condomínio;Barra da Tijuca;8;4;4;986;15000.0;1543.0;2082.0;15.21;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;360;6500.0;1145.0;889.0;18.06;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;320;9000.0;500.0;5000.0;28.12;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;410;8500.0;870.0;8100.0;20.73;Casa
+Casa de Condomínio;Jacarepaguá;3;5;2;250;4000.0;250.0;348.0;16.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;241;4000.0;900.0;0.0;16.6;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;260;8000.0;900.0;530.0;30.77;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;1;265;12000.0;870.0;5232.0;45.28;Casa
+Casa de Condomínio;Taquara;4;4;2;680;4500.0;400.0;300.0;6.62;Casa
+Casa de Condomínio;Anil;3;1;1;405;4200.0;700.0;388.0;10.37;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;600;15000.0;2200.0;1000.0;25.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;622;10000.0;1390.0;1514.0;16.08;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;2;240;4200.0;1500.0;360.0;17.5;Casa
+Casa de Condomínio;Taquara;4;4;4;300;5000.0;690.0;0.0;16.67;Casa
+Casa de Condomínio;Taquara;4;3;4;320;5000.0;690.0;0.0;15.62;Casa
+Casa de Condomínio;Cosme Velho;4;3;1;379;15000.0;1100.0;536.0;39.58;Casa
+Casa de Condomínio;Vargem Grande;3;3;1;150;2500.0;150.0;0.0;16.67;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;3;5;350;6000.0;495.0;296.0;17.14;Casa
+Casa de Condomínio;Gávea;4;2;2;500;12000.0;579.0;1438.0;24.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;1000;24000.0;2214.0;1980.0;24.0;Casa
+Casa de Condomínio;Itanhangá;4;8;4;1800;20000.0;0.0;0.0;11.11;Casa
+Casa de Condomínio;Campo Grande;2;1;0;70;700.0;50.0;0.0;10.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;1;400;8500.0;970.0;0.0;21.25;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;3;622;9991.0;1380.0;1486.0;16.06;Casa
+Casa de Condomínio;Taquara;3;5;1;272;3600.0;400.0;2246.0;13.24;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;600;10000.0;1600.0;0.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;1;2;250;9000.0;1650.0;500.0;36.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;3;153;3650.0;900.0;1.0;23.86;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;4;4;800;12000.0;1000.0;1300.0;15.0;Casa
+Casa de Condomínio;Guaratiba;3;1;0;65;900.0;170.0;0.0;13.85;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;263;7000.0;707.0;0.0;26.62;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;5;1000;25000.0;1300.0;1600.0;25.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;3;266;7900.0;1600.0;6295.0;29.7;Casa
+Casa de Condomínio;Barra da Tijuca;4;6;4;763;11000.0;800.0;2040.0;14.42;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;4;806;30000.0;2695.0;2753.0;37.22;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;1300.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;3;6;1;420;6900.0;992.0;773.0;16.43;Casa
+Casa de Condomínio;Barra da Tijuca;6;6;3;622;9950.0;1300.0;1485.0;16.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;466;7500.0;2695.0;1124.0;16.09;Casa
+Casa de Condomínio;Campo Grande;2;1;0;74;1200.0;0.0;0.0;16.22;Casa
+Casa de Condomínio;Jacarepaguá;1;0;0;230;2750.0;300.0;400.0;11.96;Casa
+Casa de Condomínio;Guaratiba;4;4;3;550;5500.0;250.0;0.0;10.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;5;650;10000.0;2000.0;8000.0;15.38;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;350;9000.0;1050.0;7000.0;25.71;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;474;20000.0;973.0;17300.0;42.19;Casa
+Casa de Condomínio;Itanhangá;6;0;5;636;24000.0;1900.0;1900.0;37.74;Casa
+Casa de Condomínio;Itanhangá;5;3;4;220;4500.0;670.0;220.0;20.45;Casa
+Casa de Condomínio;Barra da Tijuca;5;10;5;403;10900.0;855.0;968.0;27.05;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;385;7500.0;1150.0;750.0;19.48;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;631;18000.0;980.0;1800.0;28.53;Casa
+Casa de Condomínio;Joá;6;35;4;1100;22000.0;0.0;0.0;20.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;145;2500.0;463.0;0.0;17.24;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;13999.0;50.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;250;4500.0;900.0;519.0;18.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;4;250;13000.0;600.0;0.0;52.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;355;9000.0;707.0;600.0;25.35;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;869;24000.0;2220.0;2269.0;27.62;Casa
+Casa de Condomínio;Vargem Grande;4;4;1;220;3300.0;723.0;0.0;15.0;Casa
+Casa de Condomínio;Taquara;8;0;0;720;6000.0;500.0;100.0;8.33;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;260;12500.0;0.0;0.0;48.08;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;3;153;3500.0;900.0;100.0;22.88;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;4;590;20000.0;2000.0;0.0;33.9;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;1;250;6000.0;955.0;542.0;24.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;1;680;7500.0;150.0;950.0;11.03;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;755;14000.0;2200.0;2000.0;18.54;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;4;720;12000.0;800.0;0.0;16.67;Casa
+Casa de Condomínio;Botafogo;5;0;0;600;18000.0;0.0;2300.0;30.0;Casa
+Casa de Condomínio;Guaratiba;2;2;2;75;1800.0;0.0;0.0;24.0;Casa
+Casa de Condomínio;Maria da Graça;3;1;0;78;1200.0;375.0;29.0;15.38;Casa
+Casa de Condomínio;Barra da Tijuca;6;0;4;700;30000.0;2100.0;700.0;42.86;Casa
+Casa de Condomínio;Barra da Tijuca;5;9;4;870;28000.0;1650.0;0.0;32.18;Casa
+Casa de Condomínio;Barra da Tijuca;3;6;1;420;6900.0;1042.0;773.0;16.43;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;4;900;12000.0;1500.0;25000.0;13.33;Casa
+Casa de Condomínio;Vargem Grande;4;3;2;200;3600.0;600.0;0.0;18.0;Casa
+Casa de Condomínio;Joá;3;7;3;320;7500.0;1900.0;950.0;23.44;Casa
+Casa de Condomínio;Vargem Grande;5;3;5;350;4500.0;400.0;1.0;12.86;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;4;285;9500.0;600.0;500.0;33.33;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;674;25000.0;2100.0;2000.0;37.09;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;381;9000.0;706.0;0.0;23.62;Casa
+Casa de Condomínio;Leblon;4;2;0;800;30000.0;2000.0;1000.0;37.5;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;6;1;272;3000.0;472.0;259.0;11.03;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;775;25000.0;2134.0;20987.0;32.26;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;3;256;7900.0;1495.0;700.0;30.86;Casa
+Casa de Condomínio;São Conrado;4;2;2;400;9000.0;850.0;450.0;22.5;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;1;258;6500.0;1500.0;650.0;25.19;Casa
+Casa de Condomínio;Vargem Pequena;2;1;2;90;1800.0;0.0;0.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;3;260;7900.0;1495.0;700.0;30.38;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;628;11000.0;1700.0;2200.0;17.52;Casa
+Casa de Condomínio;Barra da Tijuca;4;6;4;500;25000.0;1586.0;1298.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;300;9000.0;580.0;680.0;30.0;Casa
+Casa de Condomínio;Itanhangá;3;1;0;70;1850.0;227.0;0.0;26.43;Casa
+Casa de Condomínio;Pedra de Guaratiba;2;1;0;60;800.0;300.0;0.0;13.33;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;3;330;9000.0;860.0;0.0;27.27;Casa
+Casa de Condomínio;Campo Grande;2;1;0;78;1000.0;0.0;0.0;12.82;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;5;780;30000.0;1700.0;800.0;38.46;Casa
+Casa de Condomínio;Taquara;4;2;4;160;2800.0;250.0;250.0;17.5;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;350;13000.0;1500.0;1000.0;37.14;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;3;622;10000.0;1380.0;1486.0;16.08;Casa
+Casa de Condomínio;Vargem Grande;3;2;1;135;2000.0;830.0;120.0;14.81;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;6;700;25000.0;1600.0;1200.0;35.71;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;338;12000.0;900.0;1000.0;35.5;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;5;850;20000.0;2150.0;2600.0;23.53;Casa
+Casa de Condomínio;Botafogo;4;1;0;120;4500.0;150.0;100.0;37.5;Casa
+Casa de Condomínio;Laranjeiras;6;4;0;650;7000.0;1200.0;800.0;10.77;Casa
+Casa de Condomínio;Barra da Tijuca;6;5;6;615;20000.0;2000.0;1000.0;32.52;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;6;3;6;220;5700.0;1000.0;560.0;25.91;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;775;25000.0;1750.0;21400.0;32.26;Casa
+Casa de Condomínio;Barra da Tijuca;6;6;5;800;18000.0;1000.0;13000.0;22.5;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;0;800;22000.0;2400.0;1400.0;27.5;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;423;16000.0;2150.0;1500.0;37.83;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;800;17000.0;2695.0;0.0;21.25;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;340;8500.0;500.0;690.0;25.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;680;20000.0;2870.0;1200.0;29.41;Casa
+Casa de Condomínio;Vila da Penha;2;1;0;62;800.0;165.0;0.0;12.9;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;900;25000.0;1415.0;1216.0;27.78;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;550;25000.0;1967.0;1330.0;45.45;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;1;200;3000.0;150.0;0.0;15.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;315;8000.0;1082.0;820.0;25.4;Casa
+Casa de Condomínio;Barra da Tijuca;3;3;2;700;7000.0;2500.0;760.0;10.0;Casa
+Casa de Condomínio;Itanhangá;5;3;5;800;10000.0;1500.0;171.0;12.5;Casa
+Casa de Condomínio;Barra da Tijuca;6;6;6;964;16000.0;1200.0;2398.0;16.6;Casa
+Casa de Condomínio;Barra da Tijuca;5;7;5;780;18000.0;2081.0;1540.0;23.08;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;512;15000.0;1967.0;1400.0;29.3;Casa
+Casa de Condomínio;Taquara;5;2;1;325;3000.0;200.0;383.0;9.23;Casa
+Casa de Condomínio;Barra da Tijuca;4;8;4;1000;7900.0;1800.0;1400.0;7.9;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;4;500;9000.0;1000.0;1100.0;18.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1050.0;1300.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;600;17000.0;1800.0;2200.0;28.33;Casa
+Casa de Condomínio;Vargem Grande;3;2;1;160;3000.0;0.0;0.0;18.75;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;5;900;20000.0;1324.0;16000.0;22.22;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;1;4;253;3600.0;805.0;239.0;14.23;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;4;325;8009.0;600.0;0.0;24.64;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;2;210;5000.0;970.0;0.0;23.81;Casa
+Casa de Condomínio;Barra da Tijuca;6;3;3;430;7500.0;150.0;1000.0;17.44;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;224;4500.0;1622.0;418.0;20.09;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;4;1000;25000.0;2500.0;25000.0;25.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;5;580;15000.0;820.0;10674.0;25.86;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;400;7500.0;1145.0;750.0;18.75;Casa
+Casa de Condomínio;Vargem Grande;3;1;1;100;2000.0;200.0;1.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;10;0;771;25000.0;1550.0;147.0;32.43;Casa
+Casa de Condomínio;Jacarepaguá;3;3;0;150;3000.0;50.0;71.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;0;365;10000.0;1207.0;1197.0;27.4;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;400;7000.0;811.0;0.0;17.5;Casa
+Casa de Condomínio;São Conrado;4;4;4;640;28000.0;2400.0;1300.0;43.75;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;900;21000.0;1300.0;1600.0;23.33;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;2;400;12500.0;1907.0;0.0;31.25;Casa
+Casa de Condomínio;Joá;4;3;2;300;10000.0;1630.0;650.0;33.33;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;4;320;7000.0;500.0;1200.0;21.88;Casa
+Casa de Condomínio;Itanhangá;8;4;5;965;20000.0;2200.0;1600.0;20.73;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;220;5000.0;1500.0;3800.0;22.73;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;266;9000.0;1500.0;0.0;33.83;Casa
+Casa de Condomínio;Barra da Tijuca;4;8;4;423;8000.0;1000.0;1200.0;18.91;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;2;245;4500.0;1135.0;398.0;18.37;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;240;10000.0;1200.0;600.0;41.67;Casa
+Casa de Condomínio;Barra da Tijuca;3;6;1;420;6900.0;992.0;773.0;16.43;Casa
+Casa de Condomínio;Vargem Grande;3;1;2;130;2150.0;570.0;27.0;16.54;Casa
+Casa de Condomínio;São Conrado;5;4;5;1100;23000.0;2450.0;0.0;20.91;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;3;600;9800.0;2333.0;0.0;16.33;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;2;420;8500.0;850.0;0.0;20.24;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;622;10000.0;1380.0;1500.0;16.08;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;351;15000.0;1900.0;11587.0;42.74;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;185;2400.0;880.0;334.0;12.97;Casa
+Casa de Condomínio;Campo Grande;3;3;2;192;1400.0;0.0;0.0;7.29;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;1;240;12000.0;1605.0;525.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;8;5;900;20000.0;2200.0;1500.0;22.22;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;197;4000.0;960.0;353.0;20.3;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;300;17000.0;750.0;7500.0;56.67;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;2;1;140;2500.0;1200.0;0.0;17.86;Casa
+Casa de Condomínio;Vargem Pequena;3;2;1;200;4500.0;160.0;0.0;22.5;Casa
+Casa de Condomínio;Campo Grande;2;1;0;74;1500.0;360.0;0.0;20.27;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;450;12000.0;510.0;660.0;26.67;Casa
+Casa de Condomínio;Leblon;4;2;4;400;25000.0;3500.0;20000.0;62.5;Casa
+Casa de Condomínio;Portuguesa;2;1;0;69;1900.0;400.0;49.0;27.54;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;4;300;12200.0;1200.0;350.0;40.67;Casa
+Casa de Condomínio;Itanhangá;6;9;6;1280;17000.0;1500.0;14000.0;13.28;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;300;5900.0;530.0;4000.0;19.67;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;2;340;8000.0;960.0;4250.0;23.53;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;298;14000.0;1490.0;505.0;46.98;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;2;2;610;4500.0;930.0;710.0;7.38;Casa
+Casa de Condomínio;Jacarepaguá;4;2;1;254;4500.0;320.0;100.0;17.72;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;330;7500.0;510.0;6000.0;22.73;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;156;3500.0;900.0;330.0;22.44;Casa
+Casa de Condomínio;Vargem Pequena;5;3;2;430;4000.0;950.0;250.0;9.3;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;660;30000.0;1050.0;1300.0;45.45;Casa
+Casa de Condomínio;Vargem Grande;4;2;2;400;3500.0;75000.0;0.0;8.75;Casa
+Casa de Condomínio;Cachamorra;3;5;3;250;3000.0;200.0;180.0;12.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;8;4;751;18000.0;2334.0;2404.0;23.97;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;300;10000.0;700.0;5500.0;33.33;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;3;1;178;2900.0;900.0;158.0;16.29;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;1;320;10000.0;1500.0;10000.0;31.25;Casa
+Casa de Condomínio;Anil;3;2;1;308;3500.0;700.0;280.0;11.36;Casa
+Casa de Condomínio;Taquara;6;6;5;722;5000.0;380.0;700.0;6.93;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;263;7000.0;700.0;518.0;26.62;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;2;600;12000.0;800.0;1000.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;9;4;679;16000.0;3049.0;2743.0;23.56;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;400;10000.0;2100.0;1400.0;25.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;280;5000.0;750.0;200.0;17.86;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;5;900;17500.0;2600.0;0.0;19.44;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;147;4500.0;1195.0;1000.0;30.61;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;4;500;11800.0;1550.0;1501.0;23.6;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;1;165;2000.0;980.0;153.0;12.12;Casa
+Casa de Condomínio;Barra da Tijuca;6;0;5;950;30000.0;1200.0;15000.0;31.58;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;4;1000;15000.0;2600.0;0.0;15.0;Casa
+Casa de Condomínio;São Conrado;3;4;3;523;15000.0;3968.0;1013.0;28.68;Casa
+Casa de Condomínio;Itanhangá;4;0;2;400;10000.0;1400.0;1500.0;25.0;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;4;622;10000.0;0.0;0.0;16.08;Casa
+Casa de Condomínio;Taquara;3;3;1;280;5000.0;865.0;1100.0;17.86;Casa
+Casa de Condomínio;Maracanã;2;0;0;50;2200.0;70.0;20.0;44.0;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;2;3;180;3500.0;600.0;0.0;19.44;Casa
+Casa de Condomínio;Barra da Tijuca;5;8;5;900;20000.0;2200.0;1177.0;22.22;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;4;900;20000.0;1500.0;0.0;22.22;Casa
+Casa de Condomínio;Vargem Grande;3;3;1;180;2200.0;400.0;1.0;12.22;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;3;3;320;7900.0;949.0;2560.0;24.69;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;168;4000.0;1161.0;0.0;23.81;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;2;3;180;3500.0;600.0;0.0;19.44;Casa
+Casa de Condomínio;Barra da Tijuca;3;3;1;325;6500.0;1172.0;575.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;4;600;11000.0;1680.0;1700.0;18.33;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;270;11000.0;700.0;550.0;40.74;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;2;600;12000.0;800.0;0.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;400;16000.0;1300.0;590.0;40.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;2;5;236;3700.0;730.0;0.0;15.68;Casa
+Casa de Condomínio;Campo Grande;2;1;0;85;1000.0;0.0;0.0;11.76;Casa
+Casa de Condomínio;Barra de Guaratiba;4;2;2;300;7500.0;1300.0;802.0;25.0;Casa
+Casa de Condomínio;Vargem Pequena;4;2;4;230;3450.0;390.0;160.0;15.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;4;300;9000.0;600.0;3000.0;30.0;Casa
+Casa de Condomínio;São Conrado;4;2;1;320;5500.0;2260.0;38.0;17.19;Casa
+Casa de Condomínio;Campo Grande;2;1;2;80;1500.0;490.0;0.0;18.75;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;198;4500.0;1161.0;0.0;22.73;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;4;1;310;3500.0;20.0;280.0;11.29;Casa
+Casa de Condomínio;Méier;3;1;2;114;1700.0;50.0;0.0;14.91;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;2;1;123;3500.0;550.0;160.0;28.46;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;680;20000.0;2000.0;0.0;29.41;Casa
+Casa de Condomínio;Taquara;3;1;1;90;1600.0;250.0;0.0;17.78;Casa
+Casa de Condomínio;Guaratiba;2;1;0;63;900.0;0.0;0.0;14.29;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;2;3;160;3000.0;900.0;198.0;18.75;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;2;410;10000.0;1100.0;850.0;24.39;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;0;3;280;10000.0;1200.0;6000.0;35.71;Casa
+Casa de Condomínio;Guaratiba;2;3;1;120;1500.0;50.0;2.0;12.5;Casa
+Casa de Condomínio;Taquara;3;0;1;800;10000.0;150.0;2400.0;12.5;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;3;5;300;6000.0;500.0;0.0;20.0;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;1;2;130;2000.0;240.0;60.0;15.38;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;500;9500.0;2100.0;1357.0;19.0;Casa
+Casa de Condomínio;Bangu;3;1;0;100;1500.0;0.0;0.0;15.0;Casa
+Casa de Condomínio;Taquara;3;2;1;112;1900.0;325.0;1189.0;16.96;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;280;10000.0;1000.0;529.0;35.71;Casa
+Casa de Condomínio;Taquara;4;1;0;110;1750.0;550.0;993.0;15.91;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;900;20000.0;1308.0;1601.0;22.22;Casa
+Casa de Condomínio;Jacarepaguá;3;0;1;170;2500.0;325.0;170.0;14.71;Casa
+Casa de Condomínio;Pechincha;2;0;1;68;1500.0;360.0;40.0;22.06;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;3;650;15000.0;1750.0;850.0;23.08;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;700;15000.0;1600.0;0.0;21.43;Casa
+Casa de Condomínio;Barra da Tijuca;6;6;6;640;20000.0;1600.0;0.0;31.25;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;300;7000.0;707.0;568.0;23.33;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;320;10000.0;850.0;4000.0;31.25;Casa
+Casa de Condomínio;Campo Grande;2;1;2;70;1300.0;350.0;0.0;18.57;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;700;12000.0;1820.0;0.0;17.14;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;2;278;7500.0;1560.0;414.0;26.98;Casa
+Casa de Condomínio;Guaratiba;2;1;2;75;1700.0;0.0;0.0;22.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;8;2;472;9000.0;800.0;1050.0;19.07;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;5;900;15000.0;2000.0;1800.0;16.67;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;7;6;6;800;16000.0;1200.0;13000.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;3;3;1;180;3000.0;700.0;0.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;5;566;20000.0;1308.0;0.0;35.34;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;3;600;10000.0;2200.0;15000.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;450;6000.0;2400.0;1600.0;13.33;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;3;4;492;5800.0;1000.0;850.0;11.79;Casa
+Casa de Condomínio;Itanhangá;5;4;5;800;15000.0;1700.0;1300.0;18.75;Casa
+Casa de Condomínio;Barra da Tijuca;4;6;3;370;10500.0;950.0;0.0;28.38;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);2;1;2;60;1100.0;450.0;0.0;18.33;Casa
+Casa de Condomínio;Barra da Tijuca;6;5;6;370;9000.0;580.0;680.0;24.32;Casa
+Casa de Condomínio;Vargem Pequena;2;2;1;100;2100.0;365.0;70.0;21.0;Casa
+Casa de Condomínio;Andaraí;3;2;0;136;2200.0;532.0;0.0;16.18;Casa
+Casa de Condomínio;Vargem Grande;2;0;0;70;1500.0;0.0;0.0;21.43;Casa
+Casa de Condomínio;Taquara;3;1;0;200;2000.0;130.0;480.0;10.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;2;703;15000.0;0.0;0.0;21.34;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;4;3;480;7000.0;600.0;2500.0;14.58;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;3;622;10000.0;1380.0;1486.0;16.08;Casa
+Casa de Condomínio;Barra da Tijuca;7;6;6;850;25000.0;2200.0;25000.0;29.41;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;5;810;26000.0;1550.0;3256.0;32.1;Casa
+Casa de Condomínio;Vargem Pequena;3;2;3;260;5000.0;350.0;150.0;19.23;Casa
+Casa de Condomínio;Cachambi;1;1;0;70;1000.0;150.0;13.0;14.29;Casa
+Casa de Condomínio;Barra da Tijuca;5;7;5;780;18000.0;2081.0;1540.0;23.08;Casa
+Casa de Condomínio;Bangu;2;0;0;92;750.0;0.0;0.0;8.15;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;2;200;3000.0;0.0;0.0;15.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;6;4;5;650;10000.0;1134.0;1487.0;15.38;Casa
+Casa de Condomínio;Curicica;2;1;1;110;2000.0;504.0;0.0;18.18;Casa
+Casa de Condomínio;Barra da Tijuca;3;2;3;349;8000.0;850.0;583.0;22.92;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;0;800;15000.0;2000.0;0.0;18.75;Casa
+Casa de Condomínio;Pechincha;1;0;0;72;1200.0;100.0;0.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;2;385;6500.0;1150.0;800.0;16.88;Casa
+Casa de Condomínio;Vargem Pequena;4;4;2;300;4000.0;600.0;0.0;13.33;Casa
+Casa de Condomínio;Guaratiba;3;2;1;130;1800.0;0.0;0.0;13.85;Casa
+Casa de Condomínio;Joá;6;3;5;690;15000.0;1500.0;1250.0;21.74;Casa
+Casa de Condomínio;Barra da Tijuca;7;4;5;622;10000.0;1380.0;1486.0;16.08;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;2;4;197;4000.0;960.0;353.0;20.3;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;3;681;20000.0;1900.0;18000.0;29.37;Casa
+Casa de Condomínio;Campo Grande;2;0;2;100;2200.0;420.0;0.0;22.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;1300.0;50.0;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;3;3;128;3800.0;460.0;1500.0;29.69;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;2;260;5800.0;1000.0;0.0;22.31;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;1200;32000.0;2134.0;17480.0;26.67;Casa
+Casa de Condomínio;Vargem Grande;3;3;1;115;2250.0;880.0;120.0;19.57;Casa
+Casa de Condomínio;Barra da Tijuca;3;2;3;450;8500.0;850.0;5863.0;18.89;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;2;1;143;2600.0;725.0;171.0;18.18;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;2;600;12000.0;800.0;1000.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;3;622;10000.0;1380.0;1486.0;16.08;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;3;431;8500.0;2134.0;1471.0;19.72;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;2070;22000.0;1000.0;32300.0;10.63;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;1;250;4000.0;1450.0;1600.0;16.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;2;480;11000.0;1000.0;680.0;22.92;Casa
+Casa de Condomínio;Barra da Tijuca;4;9;4;680;16000.0;3118.0;2743.0;23.53;Casa
+Casa de Condomínio;Joá;5;2;2;500;15000.0;1630.0;1300.0;30.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;10;4;1000;20000.0;5000.0;2000.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;2;600;12000.0;800.0;1000.0;20.0;Casa
+Casa de Condomínio;São Conrado;4;2;1;240;6500.0;2200.0;3400.0;27.08;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;2;5;400;8500.0;1000.0;480.0;21.25;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;350;13000.0;710.0;630.0;37.14;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;3;350;7500.0;900.0;0.0;21.43;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;3;370;9500.0;2333.0;1420.0;25.68;Casa
+Casa de Condomínio;Taquara;3;2;1;130;2300.0;567.0;0.0;17.69;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;2;288;12000.0;510.0;4910.0;41.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;2;400;14000.0;2500.0;0.0;35.0;Casa
+Casa de Condomínio;Catete;5;0;2;250;15000.0;0.0;0.0;60.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;595;30000.0;2500.0;2510.0;50.42;Casa
+Casa de Condomínio;Itanhangá;4;1;1;439;8500.0;1350.0;914.0;19.36;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;0;4;450;12000.0;1420.0;12524.0;26.67;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;622;10000.0;1380.0;1486.0;16.08;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;3;5;350;6000.0;495.0;296.0;17.14;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;5;617;13000.0;1450.0;1641.0;21.07;Casa
+Casa de Condomínio;Taquara;3;1;0;92;1900.0;700.0;700.0;20.65;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;3;1;213;2700.0;510.0;221.0;12.68;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;610;16500.0;1000.0;16964.0;27.05;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;550;16000.0;2100.0;2000.0;29.09;Casa
+Casa de Condomínio;Barra da Tijuca;7;6;6;1350;30000.0;0.0;0.0;22.22;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;270;6000.0;850.0;600.0;22.22;Casa
+Casa de Condomínio;Pechincha;2;1;1;70;1350.0;360.0;325.0;19.29;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;3;2;165;3200.0;150.0;760.0;19.39;Casa
+Casa de Condomínio;São Conrado;4;1;2;242;7500.0;2400.0;4320.0;30.99;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;4;100;12000.0;1807.0;2136.0;120.0;Casa
+Casa de Condomínio;Barra da Tijuca;7;10;7;1400;25000.0;2000.0;0.0;17.86;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;700;18000.0;1900.0;1850.0;25.71;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;800;12000.0;1100.0;0.0;15.0;Casa
+Casa de Condomínio;São Conrado;5;2;1;307;6500.0;2400.0;257.0;21.17;Casa
+Casa de Condomínio;Ipanema;2;0;2;90;4000.0;1000.0;200.0;44.44;Casa
+Casa de Condomínio;Barra da Tijuca;4;6;4;900;17000.0;1200.0;22000.0;18.89;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;674;27000.0;2100.0;19369.0;40.06;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;5;758;25000.0;1510.0;20500.0;32.98;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;4;1;167;2750.0;990.0;177.0;16.47;Casa
+Casa de Condomínio;Irajá;1;0;0;35;750.0;0.0;0.0;21.43;Casa
+Casa de Condomínio;Campo Grande;2;1;2;85;1000.0;0.0;0.0;11.76;Casa
+Casa de Condomínio;Leblon;4;4;4;732;15000.0;3473.0;0.0;20.49;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;4;870;12800.0;1920.0;1399.0;14.71;Casa
+Casa de Condomínio;Barra da Tijuca;7;8;7;1450;30000.0;1500.0;2800.0;20.69;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;300;6500.0;1145.0;0.0;21.67;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;226;3900.0;1547.0;423.0;17.26;Casa
+Casa de Condomínio;Gávea;5;4;1;705;10000.0;1000.0;1700.0;14.18;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;350;7000.0;7068.0;5266.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;3;6;1;420;6900.0;992.0;773.0;16.43;Casa
+Casa de Condomínio;Barra da Tijuca;3;4;3;600;16000.0;2200.0;1200.0;26.67;Casa
+Casa de Condomínio;São Conrado;4;4;4;1200;24500.0;1600.0;3498.0;20.42;Casa
+Casa de Condomínio;Vargem Pequena;4;2;3;380;3491.0;650.0;0.0;9.19;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;440;8100.0;900.0;600.0;18.41;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;3;407;9000.0;1100.0;874.0;22.11;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;4;4;900;10000.0;1380.0;2200.0;11.11;Casa
+Casa de Condomínio;Campo Grande;2;2;0;141;1550.0;120.0;61.0;10.99;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;250;10000.0;2000.0;345.0;40.0;Casa
+Casa de Condomínio;Taquara;4;0;4;300;6000.0;690.0;0.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;1;350;7500.0;970.0;635.0;21.43;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;3;622;10000.0;1390.0;1514.0;16.08;Casa
+Casa de Condomínio;Anil;4;3;1;510;7000.0;830.0;480.0;13.73;Casa
+Casa de Condomínio;São Conrado;4;2;1;240;5500.0;2200.0;3400.0;22.92;Casa
+Casa de Condomínio;Alto da Boa Vista;3;2;1;180;3750.0;750.0;139.0;20.83;Casa
+Casa de Condomínio;Barra da Tijuca;3;6;3;600;25000.0;0.0;0.0;41.67;Casa
+Casa de Condomínio;Piedade;1;0;0;30;560.0;90.0;10.0;18.67;Casa
+Casa de Condomínio;Bangu;2;0;0;80;900.0;50.0;120.0;11.25;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;3;2;380;5400.0;390.0;0.0;14.21;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;700;7500.0;1800.0;16000.0;10.71;Casa
+Casa de Condomínio;Vargem Pequena;3;1;2;130;1950.0;330.0;0.0;15.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;772;20000.0;1400.0;0.0;25.91;Casa
+Casa de Condomínio;Barra da Tijuca;5;7;4;550;12000.0;1985.0;1300.0;21.82;Casa
+Casa de Condomínio;Itanhangá;3;4;1;210;6500.0;1670.0;707.0;30.95;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;2;330;10009.0;820.0;0.0;30.33;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;3;2;165;3200.0;150.0;760.0;19.39;Casa
+Casa de Condomínio;Barra da Tijuca;6;3;4;600;13000.0;800.0;1600.0;21.67;Casa
+Casa de Condomínio;Barra da Tijuca;6;6;6;1621;13500.0;1250.0;1800.0;8.33;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;900;20000.0;3300.0;11000.0;22.22;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;585;17500.0;1850.0;1200.0;29.91;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;788;18000.0;2200.0;20000.0;22.84;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;5;1;350;6000.0;826.0;210.0;17.14;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;240;5000.0;975.0;400.0;20.83;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;2;450;6990.0;1140.0;200.0;15.53;Casa
+Casa de Condomínio;Pechincha;5;2;0;300;3200.0;50.0;150.0;10.67;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;4;815;27000.0;2700.0;12000.0;33.13;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;300;6500.0;1145.0;786.0;21.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;4;1000;15000.0;2500.0;0.0;15.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;2;340;8000.0;960.0;4250.0;23.53;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;3;622;9500.0;1380.0;1486.0;15.27;Casa
+Casa de Condomínio;Vargem Pequena;4;2;4;250;4000.0;375.0;130.0;16.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;9;4;943;29000.0;3000.0;2678.0;30.75;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;3;650;14990.0;1750.0;850.0;23.06;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;1;800;7009.0;0.0;0.0;8.76;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;2;190;4500.0;880.0;550.0;23.68;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;3;492;5800.0;1000.0;1100.0;11.79;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;4;3;450;9800.0;800.0;0.0;21.78;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;3;4;280;10000.0;0.0;0.0;35.71;Casa
+Casa de Condomínio;Barra da Tijuca;4;7;4;650;16000.0;1750.0;850.0;24.62;Casa
+Casa de Condomínio;Taquara;2;1;0;71;1700.0;654.0;0.0;23.94;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;700;30000.0;1600.0;1500.0;42.86;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;3;600;17000.0;1400.0;1000.0;28.33;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;5;1;282;3900.0;450.0;250.0;13.83;Casa
+Casa de Condomínio;Barra da Tijuca;6;3;6;1100;20000.0;2300.0;2400.0;18.18;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;1300.0;50.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;475;10000.0;2700.0;300.0;21.05;Casa
+Casa de Condomínio;Vargem Grande;4;4;2;380;4800.0;510.0;220.0;12.63;Casa
+Casa de Condomínio;Vargem Pequena;3;2;1;200;3000.0;350.0;50.0;15.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;360;15000.0;0.0;672.0;41.67;Casa
+Casa de Condomínio;São Conrado;4;2;3;450;28000.0;1600.0;1400.0;62.22;Casa
+Casa de Condomínio;Barra da Tijuca;5;1;2;250;7000.0;1600.0;530.0;28.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;5;679;20000.0;1800.0;1687.0;29.46;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;2;220;6500.0;1363.0;3094.0;29.55;Casa
+Casa de Condomínio;Barra da Tijuca;4;1;4;350;10000.0;1300.0;940.0;28.57;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;5;1200;13000.0;1600.0;0.0;10.83;Casa
+Casa de Condomínio;Itanhangá;6;3;5;636;24000.0;1900.0;1900.0;37.74;Casa
+Casa de Condomínio;Barra da Tijuca;4;7;4;560;15000.0;2300.0;1709.0;26.79;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;3;5;350;6000.0;490.0;296.0;17.14;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;258;7000.0;730.0;0.0;27.13;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;2;1;120;1800.0;195.0;30.0;15.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;2;320;9000.0;1600.0;610.0;28.12;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;1;311;7500.0;970.0;686.0;24.12;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;5;360;15000.0;700.0;905.0;41.67;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;5;5;480;6500.0;1000.0;1500.0;13.54;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;4;824;12000.0;2162.0;0.0;14.56;Casa
+Casa de Condomínio;São Conrado;4;4;2;500;12000.0;0.0;879.0;24.0;Casa
+Casa de Condomínio;Itanhangá;5;3;3;500;15000.0;1400.0;800.0;30.0;Casa
+Casa de Condomínio;Barra da Tijuca;7;10;5;773;15000.0;2900.0;2000.0;19.4;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;646;13000.0;1400.0;1643.0;20.12;Casa
+Casa de Condomínio;Vargem Grande;2;1;0;70;1800.0;320.0;0.0;25.71;Casa
+Casa de Condomínio;Camorim;5;3;3;494;5000.0;380.0;2748.0;10.12;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;1;519;6500.0;1100.0;1096.0;12.52;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;2;600;30000.0;1100.0;13999.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;4;869;24000.0;2214.0;2376.0;27.62;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;3;3;138;4000.0;750.0;250.0;28.99;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;4;900;10000.0;2500.0;2200.0;11.11;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;2;800;12000.0;1400.0;2000.0;15.0;Casa
+Casa de Condomínio;Vila Isabel;2;0;0;50;2100.0;30.0;21.0;42.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;175;4250.0;900.0;350.0;24.29;Casa
+Casa de Condomínio;Barra da Tijuca;4;1;2;247;8000.0;1500.0;680.0;32.39;Casa
+Casa de Condomínio;Gávea;5;5;3;705;10000.0;980.0;1490.0;14.18;Casa
+Casa de Condomínio;São Conrado;5;4;5;500;10000.0;2646.0;1537.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;825;25000.0;2962.0;275.0;30.3;Casa
+Casa de Condomínio;Ilha do Governador;3;3;0;179;2400.0;330.0;20.0;13.41;Casa
+Casa de Condomínio;Jacarepaguá;2;1;0;130;2500.0;0.0;0.0;19.23;Casa
+Casa de Condomínio;Itanhangá;4;3;4;500;15000.0;1572.0;600.0;30.0;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;5;788;18000.0;2200.0;20000.0;22.84;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;675;30000.0;1800.0;1400.0;44.44;Casa
+Casa de Condomínio;Barra da Tijuca;2;5;1;970;6000.0;650.0;500.0;6.19;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;2;1;132;2700.0;1000.0;100.0;20.45;Casa
+Casa de Condomínio;Vargem Grande;3;0;3;265;4500.0;570.0;0.0;16.98;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;1100;25000.0;2000.0;25000.0;22.73;Casa
+Casa de Condomínio;Gávea;6;4;6;800;23000.0;900.0;1776.0;28.75;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;4;743;15000.0;800.0;1427.0;20.19;Casa
+Casa de Condomínio;Itanhangá;5;3;5;800;10000.0;1500.0;171.0;12.5;Casa
+Casa de Condomínio;Rio da Prata;2;1;0;100;1300.0;150.0;0.0;13.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;900;20000.0;1310.0;17000.0;22.22;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;4;474;20000.0;973.0;17300.0;42.19;Casa
+Casa de Condomínio;Taquara;4;2;0;300;4000.0;50.0;30.0;13.33;Casa
+Casa de Condomínio;Pedra de Guaratiba;2;1;0;80;1300.0;75.0;0.0;16.25;Casa
+Casa de Condomínio;Guaratiba;2;1;0;50;700.0;220.0;0.0;14.0;Casa
+Casa de Condomínio;Campo Grande;3;0;1;260;3300.0;520.0;1831.0;12.69;Casa
+Casa de Condomínio;Campo Grande;2;1;0;70;650.0;50.0;0.0;9.29;Casa
+Casa de Condomínio;Itanhangá;4;4;2;600;12000.0;0.0;0.0;20.0;Casa
+Casa de Condomínio;Anil;4;2;2;270;5500.0;550.0;3000.0;20.37;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;2;385;6490.0;1150.0;750.0;16.86;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;869;23000.0;2215.0;2380.0;26.47;Casa
+Casa de Condomínio;Glória;4;3;2;600;20000.0;0.0;979.0;33.33;Casa
+Casa de Condomínio;Vargem Pequena;3;2;1;220;2600.0;500.0;600.0;11.82;Casa
+Casa de Condomínio;Vargem Grande;4;4;2;260;5000.0;341.0;0.0;19.23;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;5;622;13000.0;500.0;1220.0;20.9;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;300;9000.0;0.0;0.0;30.0;Casa
+Casa de Condomínio;Realengo;1;0;0;60;700.0;0.0;0.0;11.67;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;168;4500.0;0.0;0.0;26.79;Casa
+Casa de Condomínio;Pechincha;2;0;0;60;1300.0;65.0;1.0;21.67;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;6;556;20000.0;1650.0;1620.0;35.97;Casa
+Casa de Condomínio;Itanhangá;3;2;3;544;20000.0;1800.0;1600.0;36.76;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;3;600;15000.0;2200.0;1400.0;25.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;3;260;10000.0;1200.0;1100.0;38.46;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;156;3500.0;900.0;330.0;22.44;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;2;385;7500.0;1150.0;750.0;19.48;Casa
+Casa de Condomínio;Barra da Tijuca;4;16;4;400;10000.0;2100.0;1500.0;25.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;220;4500.0;2150.0;370.0;20.45;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;2;180;5000.0;860.0;664.0;27.78;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;400;8500.0;2135.0;1462.0;21.25;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;700;20000.0;0.0;0.0;28.57;Casa
+Casa de Condomínio;Guaratiba;2;1;0;72;1000.0;160.0;0.0;13.89;Casa
+Casa de Condomínio;Vargem Grande;4;3;1;160;3000.0;400.0;0.0;18.75;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;239;4991.0;1800.0;3200.0;20.88;Casa
+Casa de Condomínio;Guaratiba;2;1;0;50;850.0;0.0;0.0;17.0;Casa
+Casa de Condomínio;Vargem Grande;2;1;0;61;1300.0;585.0;0.0;21.31;Casa
+Casa de Condomínio;Campo Grande;3;3;0;215;2500.0;100.0;0.0;11.63;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;3;450;14000.0;1440.0;1182.0;31.11;Casa
+Casa de Condomínio;Barra da Tijuca;3;3;1;200;5000.0;800.0;282.0;25.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;2;800;7009.0;0.0;0.0;8.76;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;600;18000.0;1100.0;300.0;30.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;212;4500.0;1663.0;3660.0;21.23;Casa
+Casa de Condomínio;Joá;4;3;1;300;6900.0;1200.0;500.0;23.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;220;7000.0;1215.0;36720.0;31.82;Casa
+Casa de Condomínio;Campo Grande;2;1;0;65;800.0;0.0;0.0;12.31;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;450;7000.0;1150.0;750.0;15.56;Casa
+Casa de Condomínio;Taquara;2;0;2;90;1800.0;200.0;357.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;410;7500.0;1055.0;1190.0;18.29;Casa
+Casa de Condomínio;Laranjeiras;5;6;1;630;10000.0;1000.0;1200.0;15.87;Casa
+Casa de Condomínio;Joá;5;5;5;600;30000.0;0.0;0.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;730;25000.0;1350.0;1200.0;34.25;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;661;11800.0;1550.0;1469.0;17.85;Casa
+Casa de Condomínio;Barra da Tijuca;5;7;5;750;20000.0;2500.0;10000.0;26.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;3;300;10000.0;0.0;0.0;33.33;Casa
+Casa de Condomínio;Realengo;2;0;0;90;900.0;0.0;0.0;10.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;3;372;9800.0;2333.0;14204.0;26.34;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;260;9000.0;7068.0;8024.0;34.62;Casa
+Casa de Condomínio;Cachambi;2;1;0;90;1100.0;280.0;0.0;12.22;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;1;1;240;3000.0;0.0;0.0;12.5;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;280;5000.0;825.0;4200.0;17.86;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;2;3;240;4000.0;1200.0;315.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;465;6000.0;1025.0;1201.0;12.9;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;350;13000.0;1210.0;1000.0;37.14;Casa
+Casa de Condomínio;Itanhangá;5;3;5;700;16000.0;1600.0;150.0;22.86;Casa
+Casa de Condomínio;Vila Valqueire;4;2;0;250;2700.0;190.0;0.0;10.8;Casa
+Casa de Condomínio;Joá;4;3;1;250;6900.0;1000.0;522.0;27.6;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;320;9000.0;800.0;1200.0;28.12;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;300;9000.0;580.0;6800.0;30.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;6;3;681;18000.0;1907.0;1941.0;26.43;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;2;0;0;45;2100.0;450.0;0.0;46.67;Casa
+Casa de Condomínio;Guaratiba;3;1;1;65;1050.0;550.0;2.0;16.15;Casa
+Casa de Condomínio;Vargem Grande;2;2;1;120;2200.0;50.0;0.0;18.33;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);5;3;1;118;2500.0;1220.0;152.0;21.19;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;250;7500.0;1250.0;680.0;30.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;300;9000.0;970.0;637.0;30.0;Casa
+Casa de Condomínio;Guaratiba;3;3;2;100;1700.0;50.0;2.0;17.0;Casa
+Casa de Condomínio;Barra da Tijuca;6;2;2;600;10000.0;1850.0;1040.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;5;577;22000.0;1680.0;14735.0;38.13;Casa
+Casa de Condomínio;Leblon;4;2;4;500;25000.0;2900.0;1962.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;434;7400.0;2695.0;12115.0;17.05;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;479;10000.0;2700.0;300.0;20.88;Casa
+Casa de Condomínio;Pechincha;3;1;2;80;1900.0;0.0;0.0;23.75;Casa
+Casa de Condomínio;Pechincha;3;1;2;155;2500.0;0.0;0.0;16.13;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;2;487;13500.0;1450.0;993.0;27.72;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;1;285;6500.0;1593.0;0.0;22.81;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;660;30000.0;1150.0;13990.0;45.45;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;900;25000.0;1308.0;1601.0;27.78;Casa
+Casa de Condomínio;Gávea;6;3;6;1500;16000.0;2000.0;5500.0;10.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;800;18000.0;1600.0;2400.0;22.5;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;2;400;8500.0;860.0;780.0;21.25;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;466;7400.0;2695.0;1283.0;15.88;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;175;4250.0;900.0;353.0;24.29;Casa
+Casa de Condomínio;Madureira;2;0;0;70;900.0;0.0;68.0;12.86;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;5;600;19900.0;1891.0;160.0;33.17;Casa
+Casa de Condomínio;Barra da Tijuca;6;6;5;850;15000.0;2300.0;2200.0;17.65;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;800;10000.0;1200.0;1404.0;12.5;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;1;400;8000.0;800.0;0.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;337;12500.0;1000.0;1000.0;37.09;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;5;850;25000.0;2134.0;0.0;29.41;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;564;20000.0;1918.0;1743.0;35.46;Casa
+Casa de Condomínio;Pedra de Guaratiba;2;1;0;85;1300.0;150.0;0.0;15.29;Casa
+Casa de Condomínio;Barra da Tijuca;6;3;4;1050;15000.0;2650.0;9000.0;14.29;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;820;25000.0;2500.0;1500.0;30.49;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;1;480;8000.0;1350.0;1360.0;16.67;Casa
+Casa de Condomínio;Campo Grande;2;1;0;60;710.0;0.0;0.0;11.83;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;900;13000.0;1380.0;1833.0;14.44;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;270;10000.0;700.0;650.0;37.04;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;3;460;10000.0;1470.0;800.0;21.74;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;3;1;63;2000.0;416.0;0.0;31.75;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;1;450;8500.0;800.0;7500.0;18.89;Casa
+Casa de Condomínio;Guaratiba;2;2;2;79;2100.0;0.0;0.0;26.58;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;3;360;12000.0;1200.0;1200.0;33.33;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;550;20000.0;1308.0;1601.0;36.36;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;153;4200.0;900.0;300.0;27.45;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;2;420;8500.0;850.0;0.0;20.24;Casa
+Casa de Condomínio;Barra da Tijuca;1;0;1;40;1750.0;0.0;0.0;43.75;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;4;1042;12000.0;1640.0;2082.0;11.52;Casa
+Casa de Condomínio;Barra da Tijuca;3;6;3;608;18000.0;1910.0;1411.0;29.61;Casa
+Casa de Condomínio;Joá;3;3;3;320;7500.0;1900.0;1000.0;23.44;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;2;450;7500.0;1150.0;750.0;16.67;Casa
+Casa de Condomínio;Campo Grande;2;1;2;70;900.0;70.0;0.0;12.86;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;3;500;7900.0;1495.0;750.0;15.8;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;3;3;220;4500.0;1500.0;3500.0;20.45;Casa
+Casa de Condomínio;Praça Seca;1;1;0;50;780.0;0.0;0.0;15.6;Casa
+Casa de Condomínio;São Conrado;3;3;1;250;3900.0;2600.0;3000.0;15.6;Casa
+Casa de Condomínio;Barra da Tijuca;4;7;1;450;9000.0;500.0;960.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;4;1000;30000.0;2000.0;2670.0;30.0;Casa
+Casa de Condomínio;Humaitá;3;3;3;500;22000.0;3780.0;1550.0;44.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;0;840;10000.0;4500.0;1913.0;11.9;Casa
+Casa de Condomínio;Barra da Tijuca;5;10;5;900;20000.0;1300.0;120.0;22.22;Casa
+Casa de Condomínio;Barra da Tijuca;6;5;6;750;12000.0;1300.0;1300.0;16.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;1;400;10000.0;2334.0;0.0;25.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;280;7500.0;1.0;1.0;26.79;Casa
+Casa de Condomínio;Vargem Pequena;4;2;4;200;5000.0;330.0;0.0;25.0;Casa
+Casa de Condomínio;Campo Grande;2;1;0;65;800.0;240.0;0.0;12.31;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;3;305;3200.0;1400.0;0.0;10.49;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;285;13000.0;1200.0;14000.0;45.61;Casa
+Casa de Condomínio;Méier;3;1;0;158;2200.0;155.0;0.0;13.92;Casa
+Casa de Condomínio;Taquara;3;0;2;140;3800.0;350.0;0.0;27.14;Casa
+Casa de Condomínio;Vargem Grande;3;2;1;86;1700.0;440.0;0.0;19.77;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;2;450;6500.0;1145.0;750.0;14.44;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;1000;25000.0;2450.0;23710.0;25.0;Casa
+Casa de Condomínio;Campo Grande;3;2;2;192;1400.0;0.0;0.0;7.29;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;900;15000.0;1380.0;22000.0;16.67;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;0;400;9000.0;0.0;514.0;22.5;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;622;10000.0;1390.0;14860.0;16.08;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;890;17000.0;2700.0;2000.0;19.1;Casa
+Casa de Condomínio;Campo Grande;2;1;1;80;1400.0;170.0;0.0;17.5;Casa
+Casa de Condomínio;Vargem Grande;3;2;1;160;3900.0;0.0;0.0;24.38;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;341;9000.0;934.0;0.0;26.39;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;168;4500.0;0.0;0.0;26.79;Casa
+Casa de Condomínio;Taquara;3;1;1;140;2200.0;150.0;0.0;15.71;Casa
+Casa de Condomínio;Barra da Tijuca;6;2;1;500;18000.0;2333.0;12000.0;36.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;175;4250.0;900.0;353.0;24.29;Casa
+Casa de Condomínio;Barra da Tijuca;4;0;4;175;4250.0;900.0;353.0;24.29;Casa
+Casa de Condomínio;São Conrado;5;4;3;670;18000.0;1550.0;3200.0;26.87;Casa
+Casa de Condomínio;Itanhangá;4;2;1;479;7400.0;1350.0;0.0;15.45;Casa
+Casa de Condomínio;Camorim;4;2;2;140;2300.0;270.0;130.0;16.43;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;230;4509.0;1623.0;3660.0;19.6;Casa
+Casa de Condomínio;Urca;5;3;4;346;20000.0;0.0;0.0;57.8;Casa
+Casa de Condomínio;Barra da Tijuca;3;4;3;700;16000.0;2150.0;17000.0;22.86;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;360;7900.0;990.0;670.0;21.94;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;700;13491.0;2400.0;18500.0;19.27;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;2;1;140;2600.0;750.0;0.0;18.57;Casa
+Casa de Condomínio;Vargem Grande;3;2;1;65;1100.0;400.0;0.0;16.92;Casa
+Casa de Condomínio;Méier;3;1;1;80;1900.0;0.0;0.0;23.75;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;3;650;15000.0;1750.0;0.0;23.08;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;1;365;7150.0;0.0;6600.0;19.59;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;2;250;4200.0;603.0;400.0;16.8;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;2;390;9000.0;900.0;1380.0;23.08;Casa
+Casa de Condomínio;Barra da Tijuca;6;5;6;1100;25000.0;0.0;0.0;22.73;Casa
+Casa de Condomínio;Méier;2;1;0;70;1200.0;180.0;0.0;17.14;Casa
+Casa de Condomínio;Anil;4;2;2;240;2200.0;480.0;80.0;9.17;Casa
+Casa de Condomínio;Barra da Tijuca;5;5;5;606;18000.0;1850.0;1480.0;29.7;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;4;530;20000.0;2333.0;17970.0;37.74;Casa
+Casa de Condomínio;Barra da Tijuca;3;1;1;125;4200.0;892.0;432.0;33.6;Casa
+Casa de Condomínio;Barra da Tijuca;6;5;4;600;16000.0;900.0;8000.0;26.67;Casa
+Casa de Condomínio;Barra da Tijuca;2;4;2;600;30000.0;1100.0;0.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;560;16000.0;1500.0;1940.0;28.57;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;350;8500.0;510.0;600.0;24.29;Casa
+Casa de Condomínio;Humaitá;6;2;2;450;8000.0;0.0;0.0;17.78;Casa
+Casa de Condomínio;Méier;2;0;0;70;1200.0;200.0;80.0;17.14;Casa
+Casa de Condomínio;Vargem Grande;2;1;0;61;1400.0;570.0;16.0;22.95;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;8;3;1000;23900.0;1320.0;1061.0;23.9;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;175;4250.0;900.0;350.0;24.29;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;5;1000;30000.0;2700.0;1800.0;30.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;220;3900.0;1100.0;960.0;17.73;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;850;32000.0;1510.0;15804.0;37.65;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;6;4;600;8000.0;1800.0;3600.0;13.33;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;3;5;350;6000.0;495.0;296.0;17.14;Casa
+Casa de Condomínio;Itanhangá;4;4;2;543;10000.0;1340.0;1040.0;18.42;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;260;5200.0;1650.0;0.0;20.0;Casa
+Casa de Condomínio;Vargem Grande;3;0;1;250;2200.0;260.0;0.0;8.8;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;460;8500.0;995.0;873.0;18.48;Casa
+Casa de Condomínio;Jacarepaguá;4;5;1;200;2800.0;400.0;0.0;14.0;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;4;2;272;3000.0;525.0;260.0;11.03;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;2;300;8500.0;800.0;7500.0;28.33;Casa
+Casa de Condomínio;Barra da Tijuca;6;3;6;1000;30000.0;1300.0;1216.0;30.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;0;270;5550.0;570.0;4485.0;20.56;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;340;7991.0;1087.0;11360.0;23.5;Casa
+Casa de Condomínio;Barra da Tijuca;3;5;3;681;19991.0;1907.0;13950.0;29.36;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;5;3;4;200;4000.0;960.0;335.0;20.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;175;4250.0;900.0;353.0;24.29;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;680;17000.0;2000.0;18000.0;25.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;4;600;14500.0;1680.0;1980.0;24.17;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;2;700;13000.0;2200.0;0.0;18.57;Casa
+Casa de Condomínio;Barra da Tijuca;6;6;6;1100;25000.0;2695.0;3000.0;22.73;Casa
+Casa de Condomínio;Itanhangá;5;8;5;2200;25000.0;1300.0;345.0;11.36;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;1400.0;50.0;Casa
+Casa de Condomínio;Vargem Pequena;4;5;4;150;2700.0;606.0;54.0;18.0;Casa
+Casa de Condomínio;Joá;3;3;1;340;7500.0;1900.0;970.0;22.06;Casa
+Casa de Condomínio;Barra da Tijuca;4;1;2;245;7000.0;1650.0;550.0;28.57;Casa
+Casa de Condomínio;Guaratiba;2;0;0;70;1000.0;0.0;0.0;14.29;Casa
+Casa de Condomínio;Guaratiba;2;1;2;75;1700.0;0.0;0.0;22.67;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;4;220;6900.0;1100.0;700.0;31.36;Casa
+Casa de Condomínio;Barra da Tijuca;5;0;5;850;28000.0;0.0;0.0;32.94;Casa
+Casa de Condomínio;Barra da Tijuca;3;5;3;1030;16000.0;2150.0;2000.0;15.53;Casa
+Casa de Condomínio;Barra da Tijuca;11;4;4;937;15000.0;2300.0;14014.0;16.01;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;305;14000.0;960.0;0.0;45.9;Casa
+Casa de Condomínio;Barra da Tijuca;6;0;1;400;10000.0;2333.0;990.0;25.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;200;4500.0;1350.0;0.0;22.5;Casa
+Casa de Condomínio;Vista Alegre;2;1;0;72;1100.0;280.0;0.0;15.28;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;280;9000.0;950.0;4500.0;32.14;Casa
+Casa de Condomínio;Itanhangá;4;4;4;600;20000.0;1800.0;16000.0;33.33;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);2;1;0;75;1500.0;90.0;50.0;20.0;Casa
+Casa de Condomínio;Taquara;5;4;5;400;10000.0;699.0;5000.0;25.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;5;3;650;20000.0;1750.0;8724.0;30.77;Casa
+Casa de Condomínio;Barra da Tijuca;5;4;5;1280;30000.0;1300.0;0.0;23.44;Casa
+Casa de Condomínio;Vila Valqueire;2;1;1;70;1500.0;180.0;0.0;21.43;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;185;2600.0;900.0;300.0;14.05;Casa
+Casa de Condomínio;Campo Grande;3;2;3;220;3000.0;100.0;50.0;13.64;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;300;9000.0;934.0;8865.0;30.0;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;2;4;179;3900.0;800.0;233.0;21.79;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;3;3;420;8500.0;1000.0;1070.0;20.24;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);4;4;4;200;2900.0;550.0;120.0;14.5;Casa
+Casa de Condomínio;Itanhangá;4;4;2;700;17000.0;1600.0;1435.0;24.29;Casa
+Casa de Condomínio;Barra da Tijuca;4;1;1;439;8500.0;1350.0;950.0;19.36;Casa
+Casa de Condomínio;Anil;3;2;1;207;4500.0;563.0;255.0;21.74;Casa
+Casa de Condomínio;Taquara;3;0;1;195;2500.0;150.0;0.0;12.82;Casa
+Casa de Condomínio;São Cristóvão;2;0;2;120;2000.0;0.0;0.0;16.67;Casa
+Casa de Condomínio;Barra da Tijuca;5;6;5;560;28000.0;2200.0;0.0;50.0;Casa
+Casa de Condomínio;Campinho;2;1;1;75;1600.0;40.0;0.0;21.33;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;4;316;4500.0;990.0;0.0;14.24;Casa
+Casa de Condomínio;Barra da Tijuca;4;6;4;950;20000.0;2650.0;0.0;21.05;Casa
+Casa de Condomínio;Barra da Tijuca;6;6;6;1200;25000.0;1650.0;2900.0;20.83;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;4;500;8500.0;900.0;0.0;17.0;Casa
+Casa de Condomínio;São Cristóvão;2;1;2;100;2100.0;170.0;66.0;21.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;3;2;3;150;3200.0;1000.0;0.0;21.33;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;135;2800.0;560.0;0.0;20.74;Casa
+Casa de Condomínio;Itanhangá;5;5;5;500;15000.0;1800.0;650.0;30.0;Casa
+Casa de Condomínio;Vargem Grande;3;2;1;100;2100.0;415.0;85.0;21.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;10;3;480;15000.0;590.0;0.0;31.25;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1100.0;1399.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;6;4;900;17000.0;1200.0;22000.0;18.89;Casa
+Casa de Condomínio;Barra da Tijuca;6;4;4;662;10000.0;1129.0;1486.0;15.11;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;3;600;10000.0;2100.0;16070.0;16.67;Casa
+Casa de Condomínio;Gávea;5;3;1;600;14500.0;570.0;980.0;24.17;Casa
+Casa de Condomínio;Vargem Grande;1;1;0;50;1600.0;220.0;0.0;32.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;763;12000.0;800.0;2041.0;15.73;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;4;900;15000.0;1170.0;2100.0;16.67;Casa
+Casa de Condomínio;Copacabana;2;1;1;80;3000.0;50.0;0.0;37.5;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;4;350;9000.0;550.0;3000.0;25.71;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;5;900;20000.0;1300.0;1600.0;22.22;Casa
+Casa de Condomínio;Barra da Tijuca;3;3;3;400;7500.0;1900.0;0.0;18.75;Casa
+Casa de Condomínio;Itanhangá;3;2;3;200;3600.0;480.0;0.0;18.0;Casa
+Casa de Condomínio;Recreio dos Bandeirantes;4;4;3;500;9000.0;1000.0;900.0;18.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;4;2;600;30000.0;1050.0;0.0;50.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;300;10000.0;1055.0;5500.0;33.33;Casa
+Casa de Condomínio;Barra da Tijuca;4;2;4;290;7000.0;7068.0;6800.0;24.14;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;2;250;7500.0;1300.0;680.0;30.0;Casa
+Casa de Condomínio;Barra da Tijuca;4;3;4;460;12000.0;1000.0;1200.0;26.09;Casa
+Casa de Condomínio;Barra da Tijuca;5;2;5;554;20000.0;1892.0;1743.0;36.1;Casa
+Casa de Condomínio;Freguesia (Jacarepaguá);3;3;1;155;2000.0;530.0;1250.0;12.9;Casa
+Casa de Condomínio;Barra da Tijuca;3;5;3;1000;20000.0;3000.0;0.0;20.0;Casa
+Casa de Condomínio;Barra da Tijuca;5;3;4;450;15000.0;1711.0;2332.0;33.33;Casa
+Casa de Vila;Piedade;2;1;0;70;1300.0;0.0;0.0;18.57;Casa
+Casa de Vila;Jardim Sulacap;2;1;2;115;1600.0;1.0;60.0;13.91;Casa
+Casa de Vila;Oswaldo Cruz;1;0;1;40;800.0;0.0;0.0;20.0;Casa
+Casa de Vila;Quintino Bocaiúva;2;1;0;48;750.0;0.0;0.0;15.62;Casa
+Casa de Vila;Jacarepaguá;3;1;0;100;2000.0;100.0;0.0;20.0;Casa
+Casa de Vila;Realengo;2;1;0;150;1200.0;0.0;0.0;8.0;Casa
+Casa de Vila;Irajá;2;0;0;53;900.0;0.0;0.0;16.98;Casa
+Casa de Vila;Bonsucesso;2;1;0;52;1400.0;50.0;0.0;26.92;Casa
+Casa de Vila;Campo Grande;2;0;0;100;850.0;0.0;0.0;8.5;Casa
+Casa de Vila;Vila Isabel;2;0;0;55;1800.0;0.0;225.0;32.73;Casa
+Casa de Vila;Ramos;2;0;0;58;900.0;0.0;0.0;15.52;Casa
+Casa de Vila;Todos os Santos;2;1;0;85;1400.0;180.0;0.0;16.47;Casa
+Casa de Vila;Méier;2;1;1;65;1800.0;0.0;0.0;27.69;Casa
+Casa de Vila;Abolição;2;0;0;68;1200.0;65.0;135.0;17.65;Casa
+Casa de Vila;Méier;3;1;1;80;2300.0;0.0;0.0;28.75;Casa
+Casa de Vila;Bangu;2;1;0;100;1100.0;0.0;0.0;11.0;Casa
+Casa de Vila;Santa Teresa;2;0;0;120;2000.0;0.0;0.0;16.67;Casa
+Casa de Vila;Cachambi;2;0;0;59;1000.0;15.0;13.0;16.95;Casa
+Casa de Vila;Jardim Botânico;1;0;0;35;2500.0;370.0;27.0;71.43;Casa
+Casa de Vila;Méier;4;0;1;85;1600.0;0.0;0.0;18.82;Casa
+Casa de Vila;Encantado;1;0;0;30;850.0;0.0;0.0;28.33;Casa
+Casa de Vila;Vila da Penha;1;0;0;60;1100.0;80.0;0.0;18.33;Casa
+Casa de Vila;Vila Isabel;2;0;0;80;1900.0;0.0;73.0;23.75;Casa
+Casa de Vila;Marechal Hermes;1;0;0;88;750.0;76.0;0.0;8.52;Casa
+Casa de Vila;Freguesia (Jacarepaguá);2;1;2;69;1400.0;30.0;13.0;20.29;Casa
+Casa de Vila;Taquara;3;1;2;107;1900.0;120.0;78.0;17.76;Casa
+Casa de Vila;Colégio;2;1;0;50;980.0;0.0;0.0;19.6;Casa
+Casa de Vila;Pilares;1;0;0;22;450.0;131.0;17.0;20.45;Casa
+Casa de Vila;Bento Ribeiro;1;0;0;30;480.0;0.0;0.0;16.0;Casa
+Casa de Vila;Anchieta;2;1;0;80;1000.0;0.0;0.0;12.5;Casa
+Casa de Vila;Freguesia (Jacarepaguá);2;0;0;61;1100.0;30.0;13.0;18.03;Casa
+Casa de Vila;Ramos;0;0;0;20;600.0;0.0;0.0;30.0;Casa
+Casa de Vila;Oswaldo Cruz;1;0;0;50;620.0;0.0;0.0;12.4;Casa
+Casa de Vila;Maracanã;1;0;0;25;900.0;0.0;0.0;36.0;Casa
+Casa de Vila;Irajá;2;0;0;70;1010.0;0.0;0.0;14.43;Casa
+Casa de Vila;Vicente de Carvalho;1;0;0;50;600.0;0.0;0.0;12.0;Casa
+Casa de Vila;Oswaldo Cruz;1;0;0;40;700.0;140.0;0.0;17.5;Casa
+Casa de Vila;Botafogo;2;0;0;60;2400.0;120.0;0.0;40.0;Casa
+Casa de Vila;Bangu;1;0;0;20;400.0;0.0;0.0;20.0;Casa
+Casa de Vila;Engenho de Dentro;2;0;1;50;1200.0;0.0;135.0;24.0;Casa
+Casa de Vila;Vila Isabel;4;2;1;78;2300.0;50.0;25.0;29.49;Casa
+Casa de Vila;Anil;2;0;0;57;1100.0;25.0;0.0;19.3;Casa
+Casa de Vila;Taquara;2;1;0;60;1100.0;200.0;14.0;18.33;Casa
+Casa de Vila;Realengo;3;0;0;120;1200.0;0.0;0.0;10.0;Casa
+Casa de Vila;Pavuna;1;0;0;41;600.0;67.0;0.0;14.63;Casa
+Casa de Vila;Tijuca;2;0;0;78;1700.0;35.0;0.0;21.79;Casa
+Casa de Vila;Vila Isabel;2;0;0;55;1500.0;30.0;21.0;27.27;Casa
+Casa de Vila;Engenho de Dentro;1;0;0;50;1000.0;90.0;0.0;20.0;Casa
+Casa de Vila;Jardim Botânico;2;0;1;50;3000.0;65.0;118.0;60.0;Casa
+Casa de Vila;Engenho Novo;2;0;0;61;1000.0;0.0;0.0;16.39;Casa
+Casa de Vila;Padre Miguel;2;0;0;50;870.0;0.0;2.0;17.4;Casa
+Casa de Vila;Méier;2;1;1;65;1500.0;140.0;802.0;23.08;Casa
+Casa de Vila;Ramos;1;0;0;40;750.0;0.0;0.0;18.75;Casa
+Casa de Vila;Benfica;2;0;0;48;1200.0;40.0;14.0;25.0;Casa
+Casa de Vila;Água Santa;1;0;0;40;600.0;100.0;14.0;15.0;Casa
+Casa de Vila;Glória;1;0;0;89;2200.0;0.0;80.0;24.72;Casa
+Casa de Vila;Vila Isabel;2;0;0;120;1500.0;230.0;46.0;12.5;Casa
+Casa de Vila;Pavuna;1;0;0;30;450.0;20.0;50.0;15.0;Casa
+Casa de Vila;Bento Ribeiro;1;0;0;53;700.0;40.0;0.0;13.21;Casa
+Casa de Vila;Botafogo;2;1;0;50;2000.0;0.0;0.0;40.0;Casa
+Casa de Vila;Pechincha;4;2;4;180;3000.0;0.0;0.0;16.67;Casa
+Casa de Vila;Turiaçu;1;0;0;50;900.0;0.0;0.0;18.0;Casa
+Casa de Vila;Taquara;0;0;0;28;500.0;0.0;35.0;17.86;Casa
+Casa de Vila;Del Castilho;2;0;0;55;800.0;0.0;0.0;14.55;Casa
+Casa de Vila;Vila Militar;1;0;0;30;500.0;0.0;0.0;16.67;Casa
+Casa de Vila;Padre Miguel;1;0;0;40;670.0;0.0;2.0;16.75;Casa
+Casa de Vila;Pilares;1;0;0;24;500.0;8.0;13.0;20.83;Casa
+Casa de Vila;Tijuca;2;1;2;90;2700.0;600.0;170.0;30.0;Casa
+Casa de Vila;Campo Grande;1;0;0;50;550.0;0.0;0.0;11.0;Casa
+Casa de Vila;Campinho;2;1;0;71;1200.0;80.0;0.0;16.9;Casa
+Casa de Vila;Riachuelo;2;0;0;100;1500.0;150.0;50.0;15.0;Casa
+Casa de Vila;Quintino Bocaiúva;2;1;0;60;1100.0;0.0;0.0;18.33;Casa
+Casa de Vila;Irajá;2;0;0;80;1310.0;0.0;0.0;16.38;Casa
+Casa de Vila;Vicente de Carvalho;2;0;0;80;800.0;0.0;0.0;10.0;Casa
+Casa de Vila;Vila Isabel;2;0;0;55;1400.0;80.0;25.0;25.45;Casa
+Casa de Vila;Ramos;1;0;0;40;500.0;0.0;0.0;12.5;Casa
+Casa de Vila;Guaratiba;2;0;0;50;500.0;0.0;0.0;10.0;Casa
+Casa de Vila;Campo Grande;1;0;0;40;550.0;0.0;0.0;13.75;Casa
+Casa de Vila;Ramos;2;0;0;50;800.0;0.0;0.0;16.0;Casa
+Casa de Vila;Engenho de Dentro;2;0;0;80;1800.0;50.0;0.0;22.5;Casa
+Casa de Vila;Oswaldo Cruz;2;0;0;50;700.0;0.0;0.0;14.0;Casa
+Casa de Vila;Pechincha;2;1;0;98;1350.0;330.0;36.0;13.78;Casa
+Casa de Vila;Madureira;1;1;0;45;750.0;30.0;0.0;16.67;Casa
+Casa de Vila;Paquetá;1;0;0;50;1100.0;0.0;7.0;22.0;Casa
+Casa de Vila;Vila Isabel;2;0;0;120;1700.0;75.0;0.0;14.17;Casa
+Casa de Vila;Tijuca;2;0;0;75;1500.0;342.0;0.0;20.0;Casa
+Casa de Vila;Cascadura;1;0;0;23;750.0;0.0;0.0;32.61;Casa
+Casa de Vila;Cachambi;3;0;0;110;1700.0;0.0;0.0;15.45;Casa
+Casa de Vila;Lins de Vasconcelos;3;1;1;204;2800.0;430.0;68.0;13.73;Casa
+Casa de Vila;Maracanã;2;0;0;50;2000.0;30.0;25.0;40.0;Casa
+Casa de Vila;Ramos;2;1;0;45;1000.0;70.0;0.0;22.22;Casa
+Casa de Vila;Madureira;2;1;0;78;1000.0;0.0;0.0;12.82;Casa
+Casa de Vila;Bonsucesso;1;0;0;30;800.0;0.0;0.0;26.67;Casa
+Casa de Vila;Tanque;3;1;1;240;2000.0;40.0;100.0;8.33;Casa
+Casa de Vila;Bento Ribeiro;1;1;0;50;900.0;0.0;0.0;18.0;Casa
+Casa de Vila;Olaria;2;0;0;51;1000.0;0.0;0.0;19.61;Casa
+Casa de Vila;Taquara;1;0;0;60;1000.0;0.0;0.0;16.67;Casa
+Casa de Vila;Guadalupe;1;0;0;45;700.0;0.0;0.0;15.56;Casa
+Casa de Vila;Tijuca;2;0;0;71;2500.0;0.0;60.0;35.21;Casa
+Casa de Vila;Abolição;2;0;0;68;1200.0;0.0;12.0;17.65;Casa
+Casa de Vila;Guadalupe;1;0;0;40;650.0;0.0;10.0;16.25;Casa
+Casa de Vila;Méier;2;1;0;48;1800.0;60.0;0.0;37.5;Casa
+Casa de Vila;Riachuelo;2;0;0;56;1090.0;0.0;0.0;19.46;Casa
+Casa de Vila;São Cristóvão;1;0;0;60;1100.0;0.0;0.0;18.33;Casa
+Casa de Vila;Tijuca;1;0;0;35;1200.0;10.0;260.0;34.29;Casa
+Casa de Vila;Méier;2;0;0;80;1350.0;0.0;150.0;16.88;Casa
+Casa de Vila;Todos os Santos;3;1;1;92;1500.0;80.0;13.0;16.3;Casa
+Casa de Vila;Ramos;1;1;0;47;1000.0;0.0;0.0;21.28;Casa
+Casa de Vila;Jacarepaguá;2;1;1;70;1200.0;0.0;0.0;17.14;Casa
+Casa de Vila;Engenho de Dentro;3;0;0;100;2000.0;0.0;0.0;20.0;Casa
+Casa de Vila;Cachambi;2;1;0;76;1508.0;0.0;0.0;19.84;Casa
+Casa de Vila;Oswaldo Cruz;1;0;0;50;730.0;0.0;0.0;14.6;Casa
+Casa de Vila;Engenho de Dentro;2;0;0;58;1000.0;0.0;13.0;17.24;Casa
+Casa de Vila;Engenho Novo;3;0;0;80;1800.0;80.0;20.0;22.5;Casa
+Casa de Vila;Botafogo;2;0;0;60;2900.0;0.0;68.0;48.33;Casa
+Casa de Vila;Quintino Bocaiúva;1;0;0;34;600.0;0.0;0.0;17.65;Casa
+Casa de Vila;Cascadura;1;0;0;36;750.0;0.0;0.0;20.83;Casa
+Casa de Vila;Maracanã;2;0;0;65;1600.0;0.0;0.0;24.62;Casa
+Casa de Vila;Ramos;3;1;0;90;1500.0;0.0;0.0;16.67;Casa
+Casa de Vila;Freguesia (Ilha do Governador);3;1;1;110;2300.0;0.0;130.0;20.91;Casa
+Casa de Vila;Magalhães Bastos;1;0;0;20;380.0;0.0;0.0;19.0;Casa
+Casa de Vila;Madureira;1;0;0;40;600.0;0.0;0.0;15.0;Casa
+Casa de Vila;Praça Seca;3;4;1;268;2000.0;30.0;1500.0;7.46;Casa
+Casa de Vila;Irajá;2;0;0;50;660.0;0.0;0.0;13.2;Casa
+Casa de Vila;Tijuca;2;1;1;52;2500.0;500.0;0.0;48.08;Casa
+Casa de Vila;Oswaldo Cruz;1;0;0;25;500.0;0.0;0.0;20.0;Casa
+Casa de Vila;Curicica;2;1;0;70;1650.0;50.0;0.0;23.57;Casa
+Casa de Vila;Botafogo;2;1;1;81;2500.0;350.0;71.0;30.86;Casa
+Casa de Vila;Vila Isabel;1;0;0;48;1200.0;0.0;66.0;25.0;Casa
+Casa de Vila;Maracanã;3;1;0;120;1800.0;100.0;17.0;15.0;Casa
+Casa de Vila;Riachuelo;1;0;0;24;680.0;0.0;16.0;28.33;Casa
+Casa de Vila;Irajá;1;0;0;60;800.0;0.0;0.0;13.33;Casa
+Casa de Vila;Piedade;2;1;0;60;900.0;100.0;0.0;15.0;Casa
+Casa de Vila;Ramos;2;0;0;75;1500.0;0.0;0.0;20.0;Casa
+Casa de Vila;Tijuca;3;1;0;140;3200.0;0.0;0.0;22.86;Casa
+Casa de Vila;Vila Isabel;2;0;0;90;1500.0;40.0;76.0;16.67;Casa
+Casa de Vila;Bento Ribeiro;1;1;0;35;500.0;0.0;0.0;14.29;Casa
+Casa de Vila;Vila da Penha;1;0;0;40;900.0;0.0;0.0;22.5;Casa
+Casa de Vila;Irajá;2;0;0;60;1100.0;0.0;0.0;18.33;Casa
+Casa de Vila;Santo Cristo;4;0;0;110;2000.0;70.0;15.0;18.18;Casa
+Casa de Vila;Guaratiba;1;0;0;24;400.0;0.0;0.0;16.67;Casa
+Casa de Vila;Campo Grande;1;1;0;70;750.0;50.0;0.0;10.71;Casa
+Casa de Vila;Rocha Miranda;2;0;0;60;860.0;0.0;23.0;14.33;Casa
+Casa de Vila;Freguesia (Jacarepaguá);1;0;0;30;500.0;0.0;0.0;16.67;Casa
+Casa de Vila;Engenho de Dentro;3;1;1;105;1500.0;0.0;0.0;14.29;Casa
+Casa de Vila;Del Castilho;2;0;0;65;800.0;20.0;100.0;12.31;Casa
+Casa de Vila;Rocha Miranda;2;0;0;35;750.0;0.0;0.0;21.43;Casa
+Casa de Vila;Alto da Boa Vista;1;0;0;40;600.0;65.0;19.0;15.0;Casa
+Casa de Vila;Engenho de Dentro;3;0;0;100;1800.0;0.0;0.0;18.0;Casa
+Casa de Vila;Vaz Lobo;2;0;0;40;650.0;120.0;0.0;16.25;Casa
+Casa de Vila;Maracanã;3;0;0;82;2400.0;150.0;0.0;29.27;Casa
+Casa de Vila;Taquara;2;4;0;70;1300.0;250.0;14.0;18.57;Casa
+Casa de Vila;Colégio;1;0;0;49;780.0;0.0;0.0;15.92;Casa
+Casa de Vila;Tijuca;2;1;0;65;1800.0;227.0;50.0;27.69;Casa
+Casa de Vila;São Cristóvão;3;1;1;65;1700.0;0.0;15.0;26.15;Casa
+Casa de Vila;Vargem Pequena;2;0;1;50;850.0;50.0;0.0;17.0;Casa
+Casa de Vila;Engenho de Dentro;1;0;0;32;700.0;0.0;17.0;21.88;Casa
+Casa de Vila;Bento Ribeiro;1;0;0;40;600.0;0.0;0.0;15.0;Casa
+Casa de Vila;Botafogo;4;0;0;131;3200.0;40.0;230.0;24.43;Casa
+Casa de Vila;Pavuna;1;0;0;40;450.0;40.0;0.0;11.25;Casa
+Casa de Vila;Cascadura;1;0;0;36;700.0;0.0;0.0;19.44;Casa
+Casa de Vila;Cascadura;3;0;0;90;1200.0;0.0;0.0;13.33;Casa
+Casa de Vila;Tijuca;3;0;0;87;2600.0;0.0;0.0;29.89;Casa
+Casa de Vila;Quintino Bocaiúva;1;0;0;40;550.0;0.0;0.0;13.75;Casa
+Casa de Vila;Honório Gurgel;1;0;0;34;800.0;0.0;0.0;23.53;Casa
+Casa de Vila;Freguesia (Jacarepaguá);2;1;0;162;1700.0;70.0;0.0;10.49;Casa
+Casa de Vila;Engenho de Dentro;2;1;0;60;1500.0;50.0;0.0;25.0;Casa
+Casa de Vila;Tijuca;2;0;0;95;2000.0;0.0;100.0;21.05;Casa
+Casa de Vila;Realengo;1;0;0;70;750.0;0.0;0.0;10.71;Casa
+Casa de Vila;Tanque;2;1;1;120;1800.0;40.0;25.0;15.0;Casa
+Casa de Vila;Copacabana;2;1;1;80;3000.0;50.0;0.0;37.5;Casa
+Casa de Vila;Andaraí;1;0;0;64;1200.0;80.0;0.0;18.75;Casa
+Casa de Vila;Taquara;1;0;0;60;1000.0;0.0;0.0;16.67;Casa
+Casa de Vila;Vila Isabel;2;0;0;60;1300.0;136.0;0.0;21.67;Casa
+Casa de Vila;Ramos;2;0;0;70;1000.0;0.0;0.0;14.29;Casa
+Casa de Vila;Cascadura;1;1;0;30;750.0;30.0;0.0;25.0;Casa
+Casa de Vila;Catumbi;1;0;0;45;900.0;0.0;6.0;20.0;Casa
+Casa de Vila;Santa Teresa;2;0;0;46;2000.0;0.0;0.0;43.48;Casa
+Casa de Vila;Encantado;2;0;0;68;1000.0;50.0;35.0;14.71;Casa
+Casa de Vila;Botafogo;3;0;0;90;2750.0;20.0;110.0;30.56;Casa
+Casa de Vila;Riachuelo;2;0;0;41;1200.0;0.0;40.0;29.27;Casa
+Casa de Vila;Cascadura;1;0;0;40;850.0;0.0;0.0;21.25;Casa
+Casa de Vila;Ramos;1;0;0;40;600.0;0.0;0.0;15.0;Casa
+Casa de Vila;Campo Grande;1;0;0;70;750.0;0.0;0.0;10.71;Casa
+Casa de Vila;Realengo;2;0;0;70;1200.0;0.0;0.0;17.14;Casa
+Casa de Vila;Cavalcanti;1;0;0;45;600.0;0.0;30.0;13.33;Casa
+Casa de Vila;Ramos;1;0;0;35;700.0;0.0;0.0;20.0;Casa
+Casa de Vila;Tijuca;2;0;0;70;1500.0;0.0;0.0;21.43;Casa
+Casa de Vila;Colégio;2;1;0;50;980.0;0.0;0.0;19.6;Casa
+Casa de Vila;Pechincha;3;2;1;155;2500.0;0.0;0.0;16.13;Casa
+Casa de Vila;Padre Miguel;1;0;0;33;600.0;0.0;60.0;18.18;Casa
+Casa de Vila;Méier;2;0;0;71;2000.0;0.0;36.0;28.17;Casa
+Casa de Vila;Campo Grande;1;0;0;40;500.0;0.0;0.0;12.5;Casa
+Casa de Vila;Olaria;1;0;0;45;700.0;0.0;0.0;15.56;Casa
+Casa de Vila;Cachambi;2;0;0;100;1600.0;0.0;0.0;16.0;Casa
+Casa de Vila;Vila Militar;1;0;0;30;500.0;0.0;0.0;16.67;Casa
+Casa de Vila;Tanque;3;2;0;116;2100.0;90.0;40.0;18.1;Casa
+Casa de Vila;Méier;3;1;0;82;2300.0;0.0;13.0;28.05;Casa
+Casa de Vila;Riachuelo;2;0;0;47;1000.0;150.0;39.0;21.28;Casa
+Casa de Vila;Irajá;2;1;0;88;1250.0;87.0;27.0;14.2;Casa
+Casa de Vila;Vila Isabel;2;0;0;45;1600.0;0.0;0.0;35.56;Casa
+Casa de Vila;Campo Grande;1;0;0;40;600.0;0.0;25.0;15.0;Casa
+Casa de Vila;Braz de Pina;1;0;0;50;800.0;0.0;0.0;16.0;Casa
+Casa de Vila;Cascadura;1;0;0;42;800.0;0.0;0.0;19.05;Casa
+Casa de Vila;Méier;2;1;1;65;1800.0;0.0;0.0;27.69;Casa
+Casa de Vila;Realengo;1;0;0;45;650.0;0.0;0.0;14.44;Casa
+Casa de Vila;São Francisco Xavier;3;0;1;80;1200.0;0.0;17.0;15.0;Casa
+Casa de Vila;Tijuca;2;0;0;73;2500.0;25.0;64.0;34.25;Casa
+Casa de Vila;Engenho Novo;3;1;0;64;1760.0;50.0;0.0;27.5;Casa
+Casa de Vila;Campo Grande;3;1;0;80;1300.0;0.0;0.0;16.25;Casa
+Casa de Vila;São Cristóvão;1;0;0;33;1400.0;0.0;53.0;42.42;Casa
+Casa de Vila;Piedade;2;0;1;80;1300.0;0.0;0.0;16.25;Casa
+Casa de Vila;Curicica;1;0;0;24;500.0;60.0;250.0;20.83;Casa
+Casa de Vila;Vigário Geral;3;0;1;198;1500.0;0.0;0.0;7.58;Casa
+Casa de Vila;Freguesia (Jacarepaguá);2;0;0;65;1400.0;300.0;0.0;21.54;Casa
+Casa de Vila;Riachuelo;2;0;0;41;900.0;0.0;135.0;21.95;Casa
+Casa de Vila;Vaz Lobo;1;0;0;50;700.0;0.0;0.0;14.0;Casa
+Casa de Vila;Rocha Miranda;1;0;0;44;700.0;0.0;0.0;15.91;Casa
+Casa de Vila;Madureira;1;1;0;52;900.0;0.0;0.0;17.31;Casa
+Casa de Vila;Bento Ribeiro;1;0;0;35;780.0;0.0;14.0;22.29;Casa
+Casa de Vila;Vila da Penha;1;0;0;40;850.0;0.0;0.0;21.25;Casa
+Casa de Vila;Vila Valqueire;2;1;0;65;980.0;0.0;60.0;15.08;Casa
+Casa de Vila;São Cristóvão;1;0;0;45;1000.0;0.0;15.0;22.22;Casa
+Casa de Vila;Lins de Vasconcelos;2;0;0;50;900.0;0.0;0.0;18.0;Casa
+Casa de Vila;Vila Isabel;1;0;0;32;1000.0;125.0;12.0;31.25;Casa
+Casa de Vila;Maracanã;3;0;0;80;2200.0;150.0;16.0;27.5;Casa
+Casa de Vila;Olaria;1;0;0;40;800.0;0.0;0.0;20.0;Casa
+Casa de Vila;Tijuca;2;0;0;75;2200.0;0.0;0.0;29.33;Casa
+Casa de Vila;Riachuelo;2;0;0;43;1000.0;0.0;120.0;23.26;Casa
+Casa de Vila;Quintino Bocaiúva;2;0;0;58;1000.0;0.0;0.0;17.24;Casa
+Casa de Vila;Todos os Santos;3;1;1;92;1500.0;80.0;11.0;16.3;Casa
+Casa de Vila;Riachuelo;3;0;0;73;850.0;0.0;0.0;11.64;Casa
+Casa de Vila;Pavuna;2;0;0;55;600.0;0.0;0.0;10.91;Casa
